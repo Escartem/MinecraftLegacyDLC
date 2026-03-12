@@ -9,7 +9,7 @@ Extracted contents of minercraft legacy leak dlc packages, after a certain leak 
 - [x] Audio files
 - [x] Gamerules headers
 - [ ] Gamerules
-- [x] Colors tables
+- [x] Colors tables (note, the order of the channels may be wrong, I assumed ARGB stored as RGBA in file)
 - [x] Localisation data
 - [ ] SWF contents
 
