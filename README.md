@@ -9,8 +9,9 @@ Extracted contents of minercraft legacy leak dlc packages, after a certain leak 
 - [x] Audio files
 - [x] Gamerules headers
 - [ ] Gamerules
-- [x] Colors tables (note, the order of the channels may be wrong, I assumed ARGB stored as RGBA in file)
+- [x] Colors tables (note: the order of the channels may be wrong, I assumed ARGB stored as RGBA in file)
 - [x] Localisation data
 - [ ] SWF contents
+- [ ] MCS saves
 
 ## If you have any questions, ideas or improvements for this repo, feel free to do so. I might upload the tool to extracts the contents later in the future after cleaning up the code
