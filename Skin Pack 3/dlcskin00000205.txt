@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Lonestar
+THEMENAME : Awesomenauts
+CREDIT : Awesomenauts characters from Awesomenauts are used with permission of Ronimo Games.

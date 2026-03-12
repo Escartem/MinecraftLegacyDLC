@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Maya Torres
+THEMENAME : State of Decay
+BOX : BODY -3 2 2 6 6 2 24 0

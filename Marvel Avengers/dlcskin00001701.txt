@@ -1,0 +1,15 @@
+FILETYPE : Skin
+BOX : HEAD -4.9 -6 -1 1 2 2 0 0
+BOX : HEAD -5.9 -6 1 1 1 1 0 4
+BOX : HEAD -5.9 -7 1 1 1 1 0 4
+BOX : HEAD -6.9 -8 2 1 1 1 0 4
+BOX : HEAD 3.9 -6 -1 1 2 2 0 0
+BOX : HEAD 4.9 -6 1 1 1 1 0 4
+BOX : HEAD 4.9 -7 1 1 1 1 0 4
+BOX : HEAD 5.9 -8 2 1 1 1 0 4
+BOX : HEAD -1 -10 -3 1 2 2 24 00
+BOX : HEAD 0 -10 -3 1 2 2 24 00
+BOX : HEAD -4 -10 0 1 2 2 24 00
+BOX : HEAD 3 -10 0 1 2 2 24 00
+DISPLAYNAME : Abomination
+THEMENAME : Marvel Avengers

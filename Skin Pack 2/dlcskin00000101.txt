@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Pig Man
+THEMENAME : Minecraft

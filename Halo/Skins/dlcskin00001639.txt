@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Mister Chief
+THEMENAME : Halo

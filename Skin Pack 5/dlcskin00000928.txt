@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Lee Everett
+THEMENAME : The Walking Dead
+CREDIT : © 2012-13 Telltale, Inc. THE WALKING DEAD is TM and © 2013 Robert Kirkman, LLC. Based on the Comic Book by Robert Kirkman, Tony Moore and Charlie Adlard. Telltale and the Telltale Games logo are trademarks of Telltale, Inc.

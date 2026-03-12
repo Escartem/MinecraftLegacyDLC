@@ -1,0 +1,7 @@
+FILETYPE : Skin
+DISPLAYNAME : Iron Man Mark 41
+BOX : ARM0 -5 -1 -1.1 4 1 4 24 0
+BOX : ARM0 -5 1 -1.1 4 1 4 24 0
+BOX : ARM1 1 -1 -1.1 4 1 4 24 0
+BOX : ARM1 1 1 -1.1 4 1 4 24 0
+THEMENAME : Marvel Avengers

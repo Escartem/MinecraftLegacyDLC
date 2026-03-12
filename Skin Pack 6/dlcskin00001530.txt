@@ -1,0 +1,7 @@
+FILETYPE : Skin
+DISPLAYNAME : Aimy McKillin
+THEMENAME : Super Time Force
+BOX : BODY -4 0 2 4 4 3 24 0
+BOX : BODY 0 0 2 4 4 3 24 0
+BOX : BODY -4 5 2 4 4 3 24 0
+BOX : BODY 0 5 2 4 4 3 24 0

@@ -1,0 +1,7 @@
+FILETYPE : Skin
+BOX : HEAD -4 -12 -4 4 4 4 56 00
+BOX : HEAD 0 -12 -4 4 4 4 24 00
+BOX : HEAD -4 -12 0 4 4 4 56 00
+BOX : HEAD 0 -12 0 4 4 4 24 00
+DISPLAYNAME : Leader
+THEMENAME : Marvel Avengers

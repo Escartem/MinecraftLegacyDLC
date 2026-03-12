@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Mandy Elite
+THEMENAME : Ms. 'Splosion Man

@@ -1,0 +1,42 @@
+{
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "A Minecraft texture pack to surprise and amuse you. Even the spiders are happy!",
+        "IDS_DISPLAY_NAME": "Cartoon Texture Pack"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "Ein überraschendes und amüsantes Texturpaket für Minecraft. Sogar die Spinnen freuen sich!",
+        "IDS_DISPLAY_NAME": "Cartoon-Texturpaket"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "Un pack de textures Minecraft qui va te surprendre et t'amuser. Même les araignées sont joyeuses !",
+        "IDS_DISPLAY_NAME": "P. textures Dessins"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "Un pacchetto texture per Minecraft che ti stupirà e divertirà. Perfino i ragni sono felici!",
+        "IDS_DISPLAY_NAME": "P. texture cartoni"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "Aquí tienes un nuevo pack de textura de Minecraft que te sorprenderá y divertirá. Con él, ¡incluso las arañas te parecerán simpáticas!",
+        "IDS_DISPLAY_NAME": "Textura de dibujos"
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "Uma pacote de texturas Minecraft para te surpreender e agradar. Até as aranhas ficam felizes!",
+        "IDS_DISPLAY_NAME": "Pack Textura Cartoon"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "甘党には欠かせないスイーツ満載のテクスチャ パック!",
+        "IDS_DISPLAY_NAME": "驚きと楽しさいっぱいの Minecraft テクスチャ パック。クモたちさえもハッピーに!"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "놀랍고 환상적인 Minecraft 텍스처 팩이 등장했습니다. 괴물들도 좋아하겠군요!",
+        "IDS_DISPLAY_NAME": "만화 텍스처 팩"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "Um pacote de texturas Minecraft que vai surpreender e divertir você. Até as aranhas estão felizes!",
+        "IDS_DISPLAY_NAME": "P. Texturas Cartoon"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "這個 Minecraft 材質套件將會讓你開心的嚇一跳。就連蜘蛛也笑得合不攏嘴！",
+        "IDS_DISPLAY_NAME": "卡漫材質套件"
+    }
+}

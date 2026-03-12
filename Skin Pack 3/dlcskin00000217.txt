@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Headcrab Scientist
+THEMENAME : Half Life

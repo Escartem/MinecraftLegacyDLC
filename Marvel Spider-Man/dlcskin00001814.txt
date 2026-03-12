@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Mary Jane Watson
+THEMENAME : Marvel Spider-Man

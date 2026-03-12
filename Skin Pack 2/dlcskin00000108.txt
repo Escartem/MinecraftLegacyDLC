@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Agent Cobalt
+THEMENAME : Cobalt
+CREDIT : Agent Cobalt from Cobalt is used with permission of Oxeye Game Studio AB.
+FREE : 1

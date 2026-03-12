@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Masai Man
+FREE : 1

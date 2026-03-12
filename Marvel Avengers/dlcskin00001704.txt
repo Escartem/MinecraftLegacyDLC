@@ -1,0 +1,5 @@
+FILETYPE : Skin
+BOX : HEAD -2 -5 -2 4 4 4 24 00
+BOX : HEAD -1 -2 -1 2 2 2 56 20
+DISPLAYNAME : Arnim Zola
+THEMENAME : Marvel Avengers

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Alyx Vance
+THEMENAME : Half Life

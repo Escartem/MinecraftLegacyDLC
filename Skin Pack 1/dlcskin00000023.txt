@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Old-School
+THEMENAME : Trials Evolution

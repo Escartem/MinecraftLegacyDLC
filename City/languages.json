@@ -1,0 +1,78 @@
+{
+    "sv-SV": {
+        "IDS_TP_DESCRIPTION": "Ett kreativt texturpaket som passar väldigt bra till byggnader. Perfekt för den fokuserade entreprenören.",
+        "IDS_DISPLAY_NAME": "Texturpaket - Städer"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "Ein kreatives Texturenset, ideal zum Bauen von Strukturen. Das perfekte Paket für ambitionierte Baumeister.",
+        "IDS_DISPLAY_NAME": "Texturpaket Stadt"
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "Um conjunto criativo de texturas, ideal para construir estruturas. Perfeito para quem idealiza cidades.",
+        "IDS_DISPLAY_NAME": "Pack Texturas Cidade"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "Un creativo conjunto de texturas ideal para estructuras de edificios. Perfecto para un constructor con ambición.",
+        "IDS_DISPLAY_NAME": "Pack textura: ciudad"
+    },
+    "nl-NL": {
+        "IDS_TP_DESCRIPTION": "Een creatief texturepakket, ideaal voor bouwwerken. Het perfecte pakket voor de echte bouwer.",
+        "IDS_DISPLAY_NAME": "Texturepakket Stad"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "Un ensemble de textures créatif, idéal pour la construction de structures. Parfait pour le constructeur ambitieux.",
+        "IDS_DISPLAY_NAME": "Pack textures Ville"
+    },
+    "ru-RU": {
+        "IDS_TP_DESCRIPTION": "Этот набор текстур идеален для возведения разных построек. Если вы строитель по призванию, то ничего лучше уже не найдете!",
+        "IDS_DISPLAY_NAME": "Набор городских текстур"
+    },
+    "fi-FI": {
+        "IDS_TP_DESCRIPTION": "Luova tekstuuripaketti sopii rakennelmien rakentamiseen. Täydellinen paketti omistautuneelle rakentajalle.",
+        "IDS_DISPLAY_NAME": "Kaupunkitekstuuripaketti"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "Un set di texture ideale per costruire edifici. Perfetto per tutti gli architetti in erba.",
+        "IDS_DISPLAY_NAME": "Pacc. texture città"
+    },
+    "da-DA": {
+        "IDS_TP_DESCRIPTION": "En kreativ tekstur-pakke, der er ideel til bygninger. Det perfekte sæt til den seriøse entreprenør.",
+        "IDS_DISPLAY_NAME": "By-teksturpakke"
+    },
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "A creative texture set, ideal for building structures. The perfect set for the focused builder.",
+        "IDS_DISPLAY_NAME": "City Texture Pack"
+    },
+    "no-NO": {
+        "IDS_TP_DESCRIPTION": "En kreativ teksturpakke som er ideell for bygninger. Den perfekte pakken for ivrige byggherrer.",
+        "IDS_DISPLAY_NAME": "Teksturpakke – By"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "建物の建設にぴったりな、独創的なテクスチャ パック。建設マニアにとって見逃せないパックです",
+        "IDS_DISPLAY_NAME": "シティー テクスチャ パック"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "건물 건설에 딱 맞는 창의적인 텍스쳐 팩. 야심찬 건설가를 위한 완벽한 패키지입니다.",
+        "IDS_DISPLAY_NAME": "시티 텍스쳐 팩"
+    },
+    "la-LAS": {
+        "IDS_TP_DESCRIPTION": "Un conjunto de texturas ideal para construir estructuras. El pack perfecto para un constructor dedicado.",
+        "IDS_DISPLAY_NAME": "Pack de textura urbana"
+    },
+    "pl-PL": {
+        "IDS_TP_DESCRIPTION": "Zestaw tekstur doskonale pasujący do wznoszenia budowli. Idealny zestaw dla miłośników budownictwa.",
+        "IDS_DISPLAY_NAME": "Pakiet miejskich tekstur"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "Um conjunto criativo de texturas, ideal para a construção de estruturas. Perfeito para o construtor inventivo.",
+        "IDS_DISPLAY_NAME": "Pac. texturas Cidade"
+    },
+    "tr-TR": {
+        "IDS_TP_DESCRIPTION": "Yapıları inşa etmek için ideal bir kaplama seti. Odaklanmış bir inşaatçı için mükemmel set.",
+        "IDS_DISPLAY_NAME": "Şehir Kaplama Paketi"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "一個創新的材質套件，最適合用來建造各種建築物。給專業建築者們的完美套件。",
+        "IDS_DISPLAY_NAME": "城市材質套件"
+    }
+}

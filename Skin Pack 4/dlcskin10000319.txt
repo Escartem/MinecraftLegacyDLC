@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Dust
+THEMENAME : Dust: An Elysian Tail
+FREE : 1
+CREDIT : Dust and Fidget characters from Dust: An Elysian Tail used with kind permission of Humble Hearts, LLC and Dean Dodrill. All rights reserved.

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Covenant Brute
+THEMENAME : Halo

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Scarlet Spider (Modern)
+THEMENAME : Marvel Spider-Man

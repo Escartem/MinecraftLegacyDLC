@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Ed Jones
+THEMENAME : State of Decay
+BOX : BODY -3 2 2 6 6 2 24 0
+BOX : HEAD -3 -7 -6 6 1 2 56 0

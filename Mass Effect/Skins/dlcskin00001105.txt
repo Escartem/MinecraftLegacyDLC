@@ -1,0 +1,9 @@
+FILETYPE : Skin
+THEMENAME : Mass Effect
+DISPLAYNAME : Garrus Vakarian
+BOX : HEAD 2 -8 4 1 1 2 36 16
+BOX : HEAD 2 -8 6 1 1 1 36 16
+BOX : HEAD -3 -8 4 1 1 2 36 16
+BOX : HEAD -3 -8 6 1 1 1 36 16
+BOX : HEAD -1 -8 4 2 1 2 36 16
+BOX : HEAD -1 -8 6 2 1 2 36 16

@@ -1,0 +1,6 @@
+FILETYPE : Skin
+DISPLAYNAME : Anarchist Rioter
+FREE : 1
+BOX : BODY -3 2 2 6 6 2 24 0
+BOX : BODY 2 9 3 1 2 1 56 16
+BOX : BODY 1 11 2 3 4 3 56 0

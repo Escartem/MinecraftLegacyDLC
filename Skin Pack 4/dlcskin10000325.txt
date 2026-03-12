@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Ninja
+THEMENAME : Mark of the Ninja
+FREE : 1
+CREDIT : Mark of the Ninja TM and © 2013, Klei Entertainment Inc., all rights reserved

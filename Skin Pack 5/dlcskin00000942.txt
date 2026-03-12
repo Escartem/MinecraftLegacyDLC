@@ -1,0 +1,4 @@
+FILETYPE : Skin
+FREE : 1
+DISPLAYNAME : German Captain
+THEMENAME : World War 2

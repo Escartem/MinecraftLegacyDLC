@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Wasp
+CAPEPATH : dlccape00001731.png
+THEMENAME : Marvel Avengers

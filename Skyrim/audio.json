@@ -1,0 +1,43 @@
+[
+    {
+        "tracks": [
+            "01 (A) Dragonborn",
+            "02 (A) Awake",
+            "03 (A) From Past To Present",
+            "06 (A) The City Gates",
+            "08 (A) Dragonsreach",
+            "13 (A) Distant Horizons",
+            "14 (A) Dawn",
+            "15 (A) The Jerall Mountains",
+            "17 (A) Secunda",
+            "19 (B) Frostfall",
+            "23 (B) Unbound",
+            "24 (B) Far Horizons",
+            "27 (B) The Streets of Whiterun",
+            "29 (B) The White River",
+            "31 (B) Standing Stones",
+            "33 (B) Tundra",
+            "34 (B) Journey's End",
+            "41 (C) Aurora",
+            "45 (C) Solitude",
+            "52 (C) Wind Guide You"
+        ],
+        "credits": " \nThe Elder Scrolls V: Skyrim\n \n© 2013 Bethesda Softworks LLC, a ZeniMax Media company.\nThe Elder Scrolls, Skyrim, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the US and/or other countries.\nAll Rights Reserved. All other trademarks are the property of their respective owners.\n \nThe Elder Scrolls V: Skyrim - Music Credits\n \n©2011 Bethesda Softworks LLC, a ZeniMax Media company. All Rights Reserved.\nMusic composed by Jeremy Soule, www.jeremysoule.com.\nLyrics by Emil Pagliarulo.\nProduced by Jeremy Soule, Todd Howard, and Mark Lampert.\n \nDragonborn\nJeremy Soule\nAwake\nJeremy Soule\nFrom Past To Present\nJeremy Soule\nThe City Gates\nJeremy Soule\nDistant Horizons\nJeremy Soule\nDawn\nJeremy Soule\nThe Jerall Mountains\nJeremy Soule\nSecunda\nJeremy Soule\nFrostfall\nJeremy Soule\nUnbound\nJeremy Soule\nFar Horizons\nJeremy Soule\nThe Streets of Whiterun\nJeremy Soule\nThe White River\nJeremy Soule\nStanding Stones\nJeremy Soule\nTundra\nJeremy Soule\nJourney's End\nJeremy Soule\nAurora\nJeremy Soule\nSolitude\nJeremy Soule\nWind Guide You\nJeremy Soule\nTooth and Claw\nJeremy Soule\nInto Darkness\nJeremy Soule\nShadows and Echoes\nJeremy Soule\nTowers and Shadows\nJeremy Soule\nDeath in the Darkness\nJeremy Soule\nWatch the Skies\nJeremy Soule\n"
+    },
+    {
+        "tracks": [
+            "09 (A) Tooth and Claw",
+            "21 (B) Into Darkness",
+            "39 (C) Shadows and Echoes",
+            "43 (C) Towers and Shadows",
+            "49 (C) Death in the Darkness"
+        ],
+        "credits": ""
+    },
+    {
+        "tracks": [
+            "46 (C) Watch the Skies"
+        ],
+        "credits": ""
+    }
+]

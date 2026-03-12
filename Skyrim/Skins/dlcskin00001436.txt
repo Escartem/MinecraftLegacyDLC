@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Wispmother
+THEMENAME : Skyrim
+ANIM : 0x04

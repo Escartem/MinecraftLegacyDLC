@@ -1,0 +1,7 @@
+FILETYPE : Skin
+DISPLAYNAME : Imperial French Soldier
+BOX : HEAD -4 -12 -4 4 4 4 24 0
+BOX : HEAD 0 -12 -4 4 4 4 24 0
+BOX : HEAD -4 -12 0 4 4 4 24 0
+BOX : HEAD 0 -12 0 4 4 4 24 0
+FREE : 1

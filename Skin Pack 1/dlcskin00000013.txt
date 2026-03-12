@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Covenant Grunt
+THEMENAME : Halo

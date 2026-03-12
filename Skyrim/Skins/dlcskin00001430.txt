@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Dragon Priest
+THEMENAME : Skyrim
+ANIM : 0x04

@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Polar Bear
+BOX : HEAD -2 -4 -7 4 3 3 24 0
+BOX : HEAD 3 -9 0 2 2 1 36 16
+BOX : HEAD -5 -9 0 2 2 1 36 16

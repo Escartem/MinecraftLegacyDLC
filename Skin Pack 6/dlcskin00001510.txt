@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Varric Tethras
+THEMENAME : Dragon Age

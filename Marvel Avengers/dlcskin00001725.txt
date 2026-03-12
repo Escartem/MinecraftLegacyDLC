@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Red Skull
+THEMENAME : Marvel Avengers

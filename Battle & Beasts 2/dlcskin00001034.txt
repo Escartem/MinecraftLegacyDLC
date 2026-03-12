@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Arabian Man
+CAPEPATH : dlccape00001034.png

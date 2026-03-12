@@ -1,0 +1,9 @@
+FILETYPE : Skin
+CAPEPATH : dlccape00000500.png
+DISPLAYNAME : The Grim Reaper
+DISPLAYNAMEID : IDS_DLCSKIN00000500_DISPLAYNAME
+THEMENAME : 4J Studios
+THEMENAMEID : IDS_DLCSKIN00000500_THEMENAME
+CREDIT : Huge thanks to all the developers and teams that have kindly provided skins for this charity skin pack. Used with kind permission. All rights reserved.
+CREDITID : IDS_DLCSKIN00000500_CREDIT
+GAME_FLAGS : 0x16

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : J. Jonah Jameson
+THEMENAME : Marvel Spider-Man

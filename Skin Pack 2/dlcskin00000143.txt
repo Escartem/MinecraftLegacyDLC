@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Red Knight
+THEMENAME : Castle Crashers
+CREDIT : Castle Crashers ® and Castle Crashers characters copyright © 2008, The Behemoth, All Rights Reserved.  Used with permission.

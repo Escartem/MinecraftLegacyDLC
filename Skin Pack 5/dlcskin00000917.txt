@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Aveline de Grandpré
+THEMENAME : Assassin's Creed III Liberation
+CREDIT : © 2009-2013 Ubisoft Entertainment. All rights reserved. Assassin’s Creed, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries.

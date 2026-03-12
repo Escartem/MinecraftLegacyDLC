@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Steppes Warrior
+FREE : 1
+BOX : HEAD -3 -9 -3 6 1 6 24 0
+BOX : HEAD -1 -11 -1 2 2 2 56 20

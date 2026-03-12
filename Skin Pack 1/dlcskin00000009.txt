@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Locust Drone
+THEMENAME : Gears of War
+CREDIT : Gears of War and Marcus Fenix are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere.

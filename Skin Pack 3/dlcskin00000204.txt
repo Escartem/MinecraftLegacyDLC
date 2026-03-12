@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Conker
+THEMENAME : Conker: LIVE and Reloaded
+FREE : 1

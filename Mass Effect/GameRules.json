@@ -1,0 +1,13 @@
+{
+    "seed": "44545345454",
+    "spawnX": "-129",
+    "spawnY": "71",
+    "spawnZ": "115",
+    "flatworld": "false",
+    "saveName": "IDS_SAVE_NAME",
+    "worldName": "IDS_WORLD_NAME",
+    "displayName": "IDS_DISPLAY_NAME",
+    "texturePackId": "1024",
+    "baseSaveName": "masseffect.mcs",
+    "__ROOT__": ""
+}

@@ -1,0 +1,4 @@
+FILETYPE : Skin
+FREE : 1
+DISPLAYNAME : Male Zombie
+THEMENAME : The Walking Dead

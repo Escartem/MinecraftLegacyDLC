@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Vulture
+THEMENAME : Marvel Spider-Man
+CAPEPATH : dlccape00001834.png

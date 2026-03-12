@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Hunter
+THEMENAME : Left 4 Dead

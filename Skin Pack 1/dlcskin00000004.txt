@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Jack of Blades
+THEMENAME : Fable Heroes

@@ -1,0 +1,1400 @@
+{
+    "Mob_Zombie_Colour1": {
+        "r": 0,
+        "g": 175,
+        "b": 175,
+        "a": 0
+    },
+    "Grass_FrozenOcean": {
+        "r": 128,
+        "g": 180,
+        "b": 151,
+        "a": 0
+    },
+    "Foliage_Evergreen": {
+        "r": 97,
+        "g": 153,
+        "b": 97,
+        "a": 0
+    },
+    "Water_FrozenRiver": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_FrozenOcean": {
+        "r": 128,
+        "g": 161,
+        "b": 255,
+        "a": 0
+    },
+    "Grass_Sky": {
+        "r": 142,
+        "g": 185,
+        "b": 113,
+        "a": 0
+    },
+    "Grass_Desert": {
+        "r": 191,
+        "g": 183,
+        "b": 85,
+        "a": 0
+    },
+    "Foliage_Birch": {
+        "r": 128,
+        "g": 167,
+        "b": 85,
+        "a": 0
+    },
+    "Water_Sky": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Grass_FrozenRiver": {
+        "r": 128,
+        "g": 180,
+        "b": 151,
+        "a": 0
+    },
+    "Foliage_DesertHills": {
+        "r": 174,
+        "g": 164,
+        "b": 42,
+        "a": 0
+    },
+    "Foliage_Default": {
+        "r": 96,
+        "g": 166,
+        "b": 62,
+        "a": 0
+    },
+    "Foliage_Common": {
+        "r": 107,
+        "g": 165,
+        "b": 82,
+        "a": 0
+    },
+    "Particle_DragonBreathMax": {
+        "r": 223,
+        "g": 0,
+        "b": 249,
+        "a": 0
+    },
+    "Particle_DripLavaStart": {
+        "r": 214,
+        "g": 128,
+        "b": 15,
+        "a": 0
+    },
+    "Foliage_IcePlains": {
+        "r": 96,
+        "g": 161,
+        "b": 123,
+        "a": 0
+    },
+    "Foliage_Ocean": {
+        "r": 113,
+        "g": 167,
+        "b": 77,
+        "a": 0
+    },
+    "Foliage_Forest": {
+        "r": 122,
+        "g": 178,
+        "b": 98,
+        "a": 0
+    },
+    "Foliage_MushroomIsland": {
+        "r": 122,
+        "g": 178,
+        "b": 98,
+        "a": 0
+    },
+    "Mob_CaveSpider_Colour1": {
+        "r": 12,
+        "g": 66,
+        "b": 78,
+        "a": 0
+    },
+    "Particle_DripWater": {
+        "r": 1,
+        "g": 103,
+        "b": 135,
+        "a": 0
+    },
+    "Foliage_Sky": {
+        "r": 113,
+        "g": 167,
+        "b": 77,
+        "a": 0
+    },
+    "Grass_MushroomIslandShore": {
+        "r": 128,
+        "g": 188,
+        "b": 102,
+        "a": 0
+    },
+    "Foliage_Desert": {
+        "r": 174,
+        "g": 164,
+        "b": 42,
+        "a": 0
+    },
+    "Foliage_Plains": {
+        "r": 119,
+        "g": 171,
+        "b": 47,
+        "a": 0
+    },
+    "Foliage_ExtremeHills": {
+        "r": 109,
+        "g": 163,
+        "b": 107,
+        "a": 0
+    },
+    "Effect_Jump": {
+        "r": 120,
+        "g": 98,
+        "b": 151,
+        "a": 0
+    },
+    "Grass_MushroomIsland": {
+        "r": 128,
+        "g": 188,
+        "b": 102,
+        "a": 0
+    },
+    "Grass_Forest": {
+        "r": 128,
+        "g": 188,
+        "b": 102,
+        "a": 0
+    },
+    "Foliage_Taiga": {
+        "r": 99,
+        "g": 162,
+        "b": 119,
+        "a": 0
+    },
+    "Grass_Plains": {
+        "r": 145,
+        "g": 189,
+        "b": 89,
+        "a": 0
+    },
+    "Foliage_Swampland": {
+        "r": 73,
+        "g": 97,
+        "b": 55,
+        "a": 0
+    },
+    "Foliage_River": {
+        "r": 113,
+        "g": 167,
+        "b": 77,
+        "a": 0
+    },
+    "Foliage_Hell": {
+        "r": 174,
+        "g": 164,
+        "b": 42,
+        "a": 0
+    },
+    "Material_Sand": {
+        "r": 247,
+        "g": 233,
+        "b": 163,
+        "a": 0
+    },
+    "Grass_IceMountains": {
+        "r": 128,
+        "g": 180,
+        "b": 151,
+        "a": 0
+    },
+    "In_Cloud_Base_Colour": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Foliage_FrozenOcean": {
+        "r": 96,
+        "g": 161,
+        "b": 123,
+        "a": 0
+    },
+    "Foliage_FrozenRiver": {
+        "r": 96,
+        "g": 161,
+        "b": 123,
+        "a": 0
+    },
+    "Foliage_IceMountains": {
+        "r": 96,
+        "g": 161,
+        "b": 123,
+        "a": 0
+    },
+    "Foliage_MushroomIslandShore": {
+        "r": 122,
+        "g": 178,
+        "b": 98,
+        "a": 0
+    },
+    "Water_Swampland": {
+        "r": 224,
+        "g": 255,
+        "b": 174,
+        "a": 0
+    },
+    "Water_IceMountains": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Particle_Note_23": {
+        "r": 46,
+        "g": 249,
+        "b": 0,
+        "a": 0
+    },
+    "Foliage_JungleHills": {
+        "r": 97,
+        "g": 170,
+        "b": 57,
+        "a": 0
+    },
+    "Foliage_Beach": {
+        "r": 125,
+        "g": 166,
+        "b": 69,
+        "a": 0
+    },
+    "Water_Desert": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Foliage_ForestHills": {
+        "r": 122,
+        "g": 178,
+        "b": 98,
+        "a": 0
+    },
+    "Sky_IcePlains": {
+        "r": 128,
+        "g": 161,
+        "b": 255,
+        "a": 0
+    },
+    "Grass_ForestHills": {
+        "r": 128,
+        "g": 188,
+        "b": 102,
+        "a": 0
+    },
+    "Foliage_TaigaHills": {
+        "r": 99,
+        "g": 162,
+        "b": 119,
+        "a": 0
+    },
+    "Grass_ExtremeHills": {
+        "r": 138,
+        "g": 182,
+        "b": 137,
+        "a": 0
+    },
+    "Foliage_ExtremeHillsEdge": {
+        "r": 109,
+        "g": 163,
+        "b": 107,
+        "a": 0
+    },
+    "Foliage_Jungle": {
+        "r": 97,
+        "g": 170,
+        "b": 57,
+        "a": 0
+    },
+    "Water_FrozenOcean": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Tile_WaterLily": {
+        "r": 32,
+        "g": 128,
+        "b": 48,
+        "a": 0
+    },
+    "Sky_FrozenRiver": {
+        "r": 128,
+        "g": 161,
+        "b": 255,
+        "a": 0
+    },
+    "Grass_Common": {
+        "r": 146,
+        "g": 190,
+        "b": 123,
+        "a": 0
+    },
+    "Mob_LavaSlime_Colour1": {
+        "r": 52,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Grass_Ocean": {
+        "r": 142,
+        "g": 185,
+        "b": 113,
+        "a": 0
+    },
+    "Grass_River": {
+        "r": 142,
+        "g": 185,
+        "b": 113,
+        "a": 0
+    },
+    "Grass_Taiga": {
+        "r": 130,
+        "g": 181,
+        "b": 147,
+        "a": 0
+    },
+    "Grass_Swampland": {
+        "r": 92,
+        "g": 105,
+        "b": 78,
+        "a": 0
+    },
+    "Grass_JungleHills": {
+        "r": 123,
+        "g": 190,
+        "b": 93,
+        "a": 0
+    },
+    "Grass_Hell": {
+        "r": 191,
+        "g": 183,
+        "b": 85,
+        "a": 0
+    },
+    "Grass_IcePlains": {
+        "r": 128,
+        "g": 180,
+        "b": 151,
+        "a": 0
+    },
+    "Grass_Beach": {
+        "r": 145,
+        "g": 189,
+        "b": 89,
+        "a": 0
+    },
+    "Grass_DesertHills": {
+        "r": 191,
+        "g": 183,
+        "b": 85,
+        "a": 0
+    },
+    "Water_Plains": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Grass_TaigaHills": {
+        "r": 130,
+        "g": 181,
+        "b": 147,
+        "a": 0
+    },
+    "Particle_Note_19": {
+        "r": 0,
+        "g": 206,
+        "b": 132,
+        "a": 0
+    },
+    "Grass_ExtremeHillsEdge": {
+        "r": 138,
+        "g": 182,
+        "b": 137,
+        "a": 0
+    },
+    "Grass_Jungle": {
+        "r": 123,
+        "g": 190,
+        "b": 93,
+        "a": 0
+    },
+    "Water_IcePlains": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Mob_Ocelot_Colour2": {
+        "r": 86,
+        "g": 68,
+        "b": 52,
+        "a": 0
+    },
+    "Water_Ocean": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_ExtremeHills": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_Forest": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_Taiga": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_River": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Mob_Ocelot_Colour1": {
+        "r": 239,
+        "g": 222,
+        "b": 125,
+        "a": 0
+    },
+    "Water_Hell": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_MushroomIsland": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_MushroomIslandShore": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_JungleHills": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_Beach": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_DesertHills": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_ForestHills": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Particle_Note_24": {
+        "r": 89,
+        "g": 232,
+        "b": 0,
+        "a": 0
+    },
+    "Water_TaigaHills": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_ExtremeHillsEdge": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Water_Jungle": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Ocean": {
+        "r": 123,
+        "g": 165,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Plains": {
+        "r": 121,
+        "g": 167,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Desert": {
+        "r": 111,
+        "g": 178,
+        "b": 255,
+        "a": 0
+    },
+    "Mob_PigZombie_Colour2": {
+        "r": 76,
+        "g": 113,
+        "b": 41,
+        "a": 0
+    },
+    "Sky_ExtremeHills": {
+        "r": 126,
+        "g": 163,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Forest": {
+        "r": 122,
+        "g": 166,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Taiga": {
+        "r": 127,
+        "g": 162,
+        "b": 255,
+        "a": 0
+    },
+    "Mob_Sheep_Colour2": {
+        "r": 255,
+        "g": 181,
+        "b": 181,
+        "a": 0
+    },
+    "Sky_ExtremeHillsEdge": {
+        "r": 126,
+        "g": 163,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Swampland": {
+        "r": 121,
+        "g": 167,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_River": {
+        "r": 123,
+        "g": 165,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Hell": {
+        "r": 111,
+        "g": 178,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Sky": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Sky_IceMountains": {
+        "r": 128,
+        "g": 161,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_MushroomIsland": {
+        "r": 120,
+        "g": 168,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_MushroomIslandShore": {
+        "r": 120,
+        "g": 168,
+        "b": 255,
+        "a": 0
+    },
+    "Mob_Ghast_Colour2": {
+        "r": 188,
+        "g": 188,
+        "b": 188,
+        "a": 0
+    },
+    "Sky_Beach": {
+        "r": 121,
+        "g": 167,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_DesertHills": {
+        "r": 111,
+        "g": 178,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_ForestHills": {
+        "r": 122,
+        "g": 166,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_TaigaHills": {
+        "r": 127,
+        "g": 162,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Jungle": {
+        "r": 117,
+        "g": 171,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_JungleHills": {
+        "r": 117,
+        "g": 171,
+        "b": 255,
+        "a": 0
+    },
+    "Sky_Dawn_Dark": {
+        "r": 178,
+        "g": 51,
+        "b": 51,
+        "a": 0
+    },
+    "Sky_Dawn_Bright": {
+        "r": 255,
+        "g": 229,
+        "b": 51,
+        "a": 0
+    },
+    "Tile_RedstoneDust": {
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Tile_RedstoneDustUnlit": {
+        "r": 76,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Tile_RedstoneDustLitMin": {
+        "r": 112,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Tile_RedstoneDustLitMax": {
+        "r": 255,
+        "g": 50,
+        "b": 0,
+        "a": 0
+    },
+    "Tile_StemMin": {
+        "r": 0,
+        "g": 255,
+        "b": 0,
+        "a": 0
+    },
+    "Mob_Ghast_Colour1": {
+        "r": 249,
+        "g": 249,
+        "b": 249,
+        "a": 0
+    },
+    "Tile_StemMax": {
+        "r": 224,
+        "g": 199,
+        "b": 28,
+        "a": 0
+    },
+    "Material_None": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Material_Grass": {
+        "r": 127,
+        "g": 178,
+        "b": 56,
+        "a": 0
+    },
+    "Material_Cloth": {
+        "r": 167,
+        "g": 167,
+        "b": 167,
+        "a": 0
+    },
+    "Material_Fire": {
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Material_Ice": {
+        "r": 160,
+        "g": 160,
+        "b": 255,
+        "a": 0
+    },
+    "Material_Metal": {
+        "r": 167,
+        "g": 167,
+        "b": 167,
+        "a": 0
+    },
+    "Material_Plant": {
+        "r": 0,
+        "g": 124,
+        "b": 0,
+        "a": 0
+    },
+    "Material_Snow": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Material_Clay": {
+        "r": 164,
+        "g": 168,
+        "b": 184,
+        "a": 0
+    },
+    "Material_Dirt": {
+        "r": 183,
+        "g": 106,
+        "b": 47,
+        "a": 0
+    },
+    "Material_Stone": {
+        "r": 112,
+        "g": 112,
+        "b": 112,
+        "a": 0
+    },
+    "Material_Water": {
+        "r": 64,
+        "g": 64,
+        "b": 255,
+        "a": 0
+    },
+    "Material_Wood": {
+        "r": 104,
+        "g": 83,
+        "b": 50,
+        "a": 0
+    },
+    "Material_Emerald": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Particle_Note_00": {
+        "r": 89,
+        "g": 232,
+        "b": 0,
+        "a": 0
+    },
+    "Particle_Note_01": {
+        "r": 132,
+        "g": 206,
+        "b": 0,
+        "a": 0
+    },
+    "Effect_DamageBoost": {
+        "r": 147,
+        "g": 36,
+        "b": 35,
+        "a": 0
+    },
+    "Particle_Note_02": {
+        "r": 172,
+        "g": 172,
+        "b": 0,
+        "a": 0
+    },
+    "Particle_Note_03": {
+        "r": 206,
+        "g": 132,
+        "b": 0,
+        "a": 0
+    },
+    "Particle_Note_04": {
+        "r": 232,
+        "g": 89,
+        "b": 0,
+        "a": 0
+    },
+    "Particle_Note_05": {
+        "r": 249,
+        "g": 46,
+        "b": 0,
+        "a": 0
+    },
+    "Particle_Note_06": {
+        "r": 255,
+        "g": 6,
+        "b": 6,
+        "a": 0
+    },
+    "Particle_Note_07": {
+        "r": 249,
+        "g": 0,
+        "b": 46,
+        "a": 0
+    },
+    "Particle_Note_08": {
+        "r": 232,
+        "g": 0,
+        "b": 89,
+        "a": 0
+    },
+    "Particle_Note_09": {
+        "r": 206,
+        "g": 0,
+        "b": 132,
+        "a": 0
+    },
+    "Particle_Note_10": {
+        "r": 172,
+        "g": 0,
+        "b": 172,
+        "a": 0
+    },
+    "Particle_Note_11": {
+        "r": 132,
+        "g": 0,
+        "b": 206,
+        "a": 0
+    },
+    "Particle_Note_12": {
+        "r": 89,
+        "g": 0,
+        "b": 232,
+        "a": 0
+    },
+    "Particle_Note_13": {
+        "r": 46,
+        "g": 0,
+        "b": 249,
+        "a": 0
+    },
+    "Particle_Note_14": {
+        "r": 6,
+        "g": 6,
+        "b": 254,
+        "a": 0
+    },
+    "Particle_Note_15": {
+        "r": 0,
+        "g": 46,
+        "b": 249,
+        "a": 0
+    },
+    "Particle_Note_16": {
+        "r": 0,
+        "g": 89,
+        "b": 232,
+        "a": 0
+    },
+    "Particle_Note_17": {
+        "r": 0,
+        "g": 132,
+        "b": 206,
+        "a": 0
+    },
+    "Particle_Note_18": {
+        "r": 0,
+        "g": 172,
+        "b": 172,
+        "a": 0
+    },
+    "Effect_MovementSlowDown": {
+        "r": 90,
+        "g": 108,
+        "b": 129,
+        "a": 0
+    },
+    "Particle_Note_20": {
+        "r": 0,
+        "g": 232,
+        "b": 89,
+        "a": 0
+    },
+    "Particle_Note_21": {
+        "r": 0,
+        "g": 249,
+        "b": 46,
+        "a": 0
+    },
+    "Particle_Explode": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Particle_Note_22": {
+        "r": 6,
+        "g": 254,
+        "b": 6,
+        "a": 0
+    },
+    "Particle_NetherPortal": {
+        "r": 230,
+        "g": 77,
+        "b": 255,
+        "a": 0
+    },
+    "Particle_EnderPortal": {
+        "r": 76,
+        "g": 76,
+        "b": 76,
+        "a": 0
+    },
+    "Particle_Smoke": {
+        "r": 76,
+        "g": 76,
+        "b": 76,
+        "a": 0
+    },
+    "Mob_Spider_Colour2": {
+        "r": 168,
+        "g": 14,
+        "b": 14,
+        "a": 0
+    },
+    "Particle_Ender": {
+        "r": 229,
+        "g": 76,
+        "b": 255,
+        "a": 0
+    },
+    "Particle_HugeExplosion": {
+        "r": 153,
+        "g": 153,
+        "b": 153,
+        "a": 0
+    },
+    "Particle_DripLavaEnd": {
+        "r": 148,
+        "g": 29,
+        "b": 3,
+        "a": 0
+    },
+    "Particle_EnchantmentTable": {
+        "r": 229,
+        "g": 229,
+        "b": 255,
+        "a": 0
+    },
+    "Mob_Squid_Colour2": {
+        "r": 112,
+        "g": 136,
+        "b": 153,
+        "a": 0
+    },
+    "Particle_DragonBreathMin": {
+        "r": 183,
+        "g": 0,
+        "b": 210,
+        "a": 0
+    },
+    "Particle_Suspend": {
+        "r": 7,
+        "g": 62,
+        "b": 79,
+        "a": 0
+    },
+    "Effect_MovementSpeed": {
+        "r": 124,
+        "g": 175,
+        "b": 198,
+        "a": 0
+    },
+    "Effect_DigSpeed": {
+        "r": 217,
+        "g": 192,
+        "b": 67,
+        "a": 0
+    },
+    "Effect_DigSlowdown": {
+        "r": 74,
+        "g": 66,
+        "b": 23,
+        "a": 0
+    },
+    "Effect_Heal": {
+        "r": 248,
+        "g": 36,
+        "b": 35,
+        "a": 0
+    },
+    "Effect_Harm": {
+        "r": 67,
+        "g": 10,
+        "b": 9,
+        "a": 0
+    },
+    "Effect_Confusion": {
+        "r": 85,
+        "g": 29,
+        "b": 74,
+        "a": 0
+    },
+    "Effect_Regeneration": {
+        "r": 205,
+        "g": 92,
+        "b": 171,
+        "a": 0
+    },
+    "Effect_DamageResistance": {
+        "r": 153,
+        "g": 69,
+        "b": 58,
+        "a": 0
+    },
+    "Mob_Wolf_Colour1": {
+        "r": 215,
+        "g": 211,
+        "b": 211,
+        "a": 0
+    },
+    "Effect_FireResistance": {
+        "r": 228,
+        "g": 154,
+        "b": 58,
+        "a": 0
+    },
+    "Effect_WaterBreathing": {
+        "r": 46,
+        "g": 82,
+        "b": 153,
+        "a": 0
+    },
+    "Effect_Invisiblity": {
+        "r": 127,
+        "g": 131,
+        "b": 146,
+        "a": 0
+    },
+    "Effect_Blindness": {
+        "r": 31,
+        "g": 31,
+        "b": 35,
+        "a": 0
+    },
+    "Mob_Enderman_Colour2": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Effect_NightVision": {
+        "r": 31,
+        "g": 31,
+        "b": 161,
+        "a": 0
+    },
+    "Effect_Hunger": {
+        "r": 88,
+        "g": 118,
+        "b": 83,
+        "a": 0
+    },
+    "Effect_Weakness": {
+        "r": 72,
+        "g": 77,
+        "b": 72,
+        "a": 0
+    },
+    "Effect_Poison": {
+        "r": 78,
+        "g": 147,
+        "b": 49,
+        "a": 0
+    },
+    "Potion_BaseColour": {
+        "r": 56,
+        "g": 93,
+        "b": 198,
+        "a": 0
+    },
+    "Mob_Creeper_Colour1": {
+        "r": 13,
+        "g": 167,
+        "b": 11,
+        "a": 0
+    },
+    "Mob_Creeper_Colour2": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Mob_Skeleton_Colour1": {
+        "r": 193,
+        "g": 193,
+        "b": 193,
+        "a": 0
+    },
+    "Mob_Skeleton_Colour2": {
+        "r": 73,
+        "g": 73,
+        "b": 73,
+        "a": 0
+    },
+    "Mob_Spider_Colour1": {
+        "r": 52,
+        "g": 45,
+        "b": 39,
+        "a": 0
+    },
+    "Mob_Zombie_Colour2": {
+        "r": 121,
+        "g": 156,
+        "b": 101,
+        "a": 0
+    },
+    "Mob_Pig_Colour1": {
+        "r": 240,
+        "g": 165,
+        "b": 162,
+        "a": 0
+    },
+    "Mob_Slime_Colour1": {
+        "r": 81,
+        "g": 160,
+        "b": 62,
+        "a": 0
+    },
+    "Mob_Pig_Colour2": {
+        "r": 219,
+        "g": 99,
+        "b": 95,
+        "a": 0
+    },
+    "Mob_Slime_Colour2": {
+        "r": 126,
+        "g": 191,
+        "b": 110,
+        "a": 0
+    },
+    "Armour_Default_Leather_Colour": {
+        "r": 144,
+        "g": 144,
+        "b": 144,
+        "a": 0
+    },
+    "Mob_PigZombie_Colour1": {
+        "r": 234,
+        "g": 147,
+        "b": 147,
+        "a": 0
+    },
+    "Mob_Enderman_Colour1": {
+        "r": 22,
+        "g": 22,
+        "b": 22,
+        "a": 0
+    },
+    "Mob_CaveSpider_Colour2": {
+        "r": 168,
+        "g": 14,
+        "b": 14,
+        "a": 0
+    },
+    "Mob_Silverfish_Colour1": {
+        "r": 110,
+        "g": 110,
+        "b": 110,
+        "a": 0
+    },
+    "Mob_Silverfish_Colour2": {
+        "r": 48,
+        "g": 48,
+        "b": 48,
+        "a": 0
+    },
+    "End_Fog_Colour": {
+        "r": 128,
+        "g": 128,
+        "b": 160,
+        "a": 0
+    },
+    "Mob_Blaze_Colour1": {
+        "r": 246,
+        "g": 178,
+        "b": 1,
+        "a": 0
+    },
+    "Mob_Blaze_Colour2": {
+        "r": 255,
+        "g": 248,
+        "b": 126,
+        "a": 0
+    },
+    "Mob_LavaSlime_Colour2": {
+        "r": 252,
+        "g": 252,
+        "b": 0,
+        "a": 0
+    },
+    "Mob_Sheep_Colour1": {
+        "r": 231,
+        "g": 231,
+        "b": 231,
+        "a": 0
+    },
+    "Mob_Cow_Colour1": {
+        "r": 68,
+        "g": 54,
+        "b": 38,
+        "a": 0
+    },
+    "Mob_Cow_Colour2": {
+        "r": 161,
+        "g": 161,
+        "b": 161,
+        "a": 0
+    },
+    "Mob_Chicken_Colour1": {
+        "r": 161,
+        "g": 161,
+        "b": 161,
+        "a": 0
+    },
+    "Mob_Chicken_Colour2": {
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Mob_Squid_Colour1": {
+        "r": 34,
+        "g": 59,
+        "b": 77,
+        "a": 0
+    },
+    "Mob_Wolf_Colour2": {
+        "r": 206,
+        "g": 175,
+        "b": 150,
+        "a": 0
+    },
+    "Mob_MushroomCow_Colour1": {
+        "r": 160,
+        "g": 15,
+        "b": 16,
+        "a": 0
+    },
+    "Mob_MushroomCow_Colour2": {
+        "r": 183,
+        "g": 183,
+        "b": 183,
+        "a": 0
+    },
+    "Mob_Villager_Colour1": {
+        "r": 86,
+        "g": 60,
+        "b": 51,
+        "a": 0
+    },
+    "Mob_Villager_Colour2": {
+        "r": 189,
+        "g": 139,
+        "b": 114,
+        "a": 0
+    },
+    "Under_Water_Clear_Colour": {
+        "r": 0,
+        "g": 87,
+        "b": 113,
+        "a": 0
+    },
+    "Under_Lava_Clear_Colour": {
+        "r": 153,
+        "g": 25,
+        "b": 0,
+        "a": 0
+    },
+    "Under_Water_Fog_Colour": {
+        "r": 0,
+        "g": 156,
+        "b": 204,
+        "a": 0
+    },
+    "Under_Lava_Fog_Colour": {
+        "r": 102,
+        "g": 77,
+        "b": 77,
+        "a": 0
+    },
+    "In_Cloud_Fog_Colour": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "Default_Fog_Colour": {
+        "r": 192,
+        "g": 216,
+        "b": 255,
+        "a": 0
+    },
+    "Nether_Fog_Colour": {
+        "r": 51,
+        "g": 8,
+        "b": 8,
+        "a": 0
+    },
+    "Sign_Text": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "Map_Text": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+    }
+}

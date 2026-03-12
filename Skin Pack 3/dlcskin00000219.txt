@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Barney Calhoun
+THEMENAME : Half Life
+FREE : 1

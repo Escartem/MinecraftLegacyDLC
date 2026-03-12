@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Omid
+THEMENAME : The Walking Dead

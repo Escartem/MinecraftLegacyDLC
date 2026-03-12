@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Masai Woman
+FREE : 1

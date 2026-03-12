@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Skelekitten
+THEMENAME : Charlie Murder

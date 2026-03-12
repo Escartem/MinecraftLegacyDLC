@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Cave Spider in a Suit
+FREE : 1

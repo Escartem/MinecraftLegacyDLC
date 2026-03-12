@@ -1,0 +1,6 @@
+FILETYPE : Skin
+DISPLAYNAME : Aardvark
+FREE : 1
+BOX : HEAD -2 -4 -9 4 3 1 54 16
+BOX : HEAD -1 -3 -8 2 2 3 24 4
+BOX : HEAD -2 -4 -5 4 3 1 24 0

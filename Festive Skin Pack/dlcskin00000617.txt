@@ -1,0 +1,9 @@
+FILETYPE : Skin
+DISPLAYNAME : Zombie Turkey
+BOX : HEAD -4 -5 4 1 1 3 30 2
+BOX : HEAD -4 -6 7 1 1 1 30 2
+BOX : HEAD -4 -4 7 1 1 1 30 2
+BOX : HEAD 3 -5 4 1 1 3 30 2
+BOX : HEAD 3 -6 7 1 1 1 30 2
+BOX : HEAD 3 -4 7 1 1 1 30 2
+ANIM : 0x02

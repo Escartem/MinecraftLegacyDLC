@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Ezio
+THEMENAME : Assassins Creed
+CAPEPATH : dlccape10000311.png

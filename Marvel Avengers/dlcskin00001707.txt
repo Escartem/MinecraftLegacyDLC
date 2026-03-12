@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Captain America (Bucky Barnes)
+THEMENAME : Marvel Avengers
+CAPEPATH : dlccape00001732.png

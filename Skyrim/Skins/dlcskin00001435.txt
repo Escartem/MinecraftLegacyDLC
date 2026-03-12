@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Dwarven Centurion
+THEMENAME : Skyrim

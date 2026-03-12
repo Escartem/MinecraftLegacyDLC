@@ -1,0 +1,10 @@
+FILETYPE : Skin
+DISPLAYNAME : Rayman
+THEMENAME : Rayman Legends
+CREDIT : © 1995-2013 Ubisoft Entertainment. All Rights Reserved. Rayman, the character of Rayman, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries.
+BOX : ARM1 -1 6 -2 4 4 4 24 0
+BOX : ARM0 -3 6 -2 4 4 4 24 0
+BOX : LEG1 -2 8 -2 4 4 4 56 0
+BOX : LEG0 -2 8 -2 4 4 4 56 0
+BOX : BODY -4 2 -2 4 1 4 56 27
+BOX : BODY 0 2 -2 4 1 4 56 27

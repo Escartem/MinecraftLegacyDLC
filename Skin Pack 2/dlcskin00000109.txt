@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Zapp
+THEMENAME : Gamma Bros
+CREDIT : Gamma Bros from Gamma Bros is used with permission of Pixeljam
+FREE : 1

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Edward Kenway
+THEMENAME : Assassin's Creed IV Black Flag

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Christa
+THEMENAME : The Walking Dead

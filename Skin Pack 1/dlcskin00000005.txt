@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Hero
+THEMENAME : Fable Heroes

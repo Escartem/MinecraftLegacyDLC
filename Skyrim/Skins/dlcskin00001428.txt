@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Frost Troll
+THEMENAME : Skyrim

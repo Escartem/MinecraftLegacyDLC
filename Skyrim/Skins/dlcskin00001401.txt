@@ -1,0 +1,11 @@
+FILETYPE : Skin
+DISPLAYNAME : Dragonborn Female
+THEMENAME : Skyrim
+BOX : HEAD -6 -8 0 2 2 2 24 0
+BOX : HEAD -7 -7 -1 2 2 2 24 0
+BOX : HEAD -8 -6 -2 2 2 2 24 0
+BOX : HEAD -7 -4 -3 2 1 2 24 0
+BOX : HEAD 4 -8 0 2 2 2 24 0
+BOX : HEAD 5 -7 -1 2 2 2 24 0
+BOX : HEAD 6 -6 -2 2 2 2 24 0
+BOX : HEAD 5 -4 -3 2 1 2 24 0

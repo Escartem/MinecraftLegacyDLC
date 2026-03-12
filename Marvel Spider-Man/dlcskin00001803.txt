@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Chameleon
+THEMENAME : Marvel Spider-Man

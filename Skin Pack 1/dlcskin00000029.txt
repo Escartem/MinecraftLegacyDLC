@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Ms. 'Splosion Man
+THEMENAME : Ms. 'Splosion Man

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : 343 Guilty Spark
+THEMENAME : Halo

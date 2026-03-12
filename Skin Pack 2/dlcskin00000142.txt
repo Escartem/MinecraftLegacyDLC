@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Sailor
+FREE : 1

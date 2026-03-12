@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Garth
+THEMENAME : Fable Heroes

@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Penguin
+BOX : HEAD 0 -2 -7 1 1 3 56 16
+BOX : HEAD -1 -2 -6 1 1 2 57 16

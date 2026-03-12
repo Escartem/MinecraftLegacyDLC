@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Miner
+FREE : 1

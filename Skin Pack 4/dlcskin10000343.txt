@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Valkyrie Warrior
+FREE : 1

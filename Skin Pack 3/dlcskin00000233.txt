@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Dishwasher
+THEMENAME : The Dishwasher: Dead Samurai
+CREDIT : Dishwasher characters from The Dishwasher: Dead Samurai & The Dishwasher: Vampire Smile used with kind permission of Ska Studios. All rights reserved.

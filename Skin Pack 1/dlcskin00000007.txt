@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Reaver
+THEMENAME : Fable Heroes

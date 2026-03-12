@@ -1,0 +1,5 @@
+FILETYPE : Skin
+BOX : HEAD -4.9 -6 -1 1 3 3 0 0
+BOX : HEAD 3.9 -6 -1 1 3 3 0 0
+DISPLAYNAME : Kang
+THEMENAME : Marvel Avengers

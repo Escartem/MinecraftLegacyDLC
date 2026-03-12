@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Wizard
+FREE : 1

@@ -1,0 +1,8 @@
+FILETYPE : Skin
+DISPLAYNAME : Jef Leppard
+THEMENAME : Super Time Force
+BOX : HEAD -4 -8.9 -4.9 4 1 4 56 0
+BOX : HEAD -4 -8.9 -1 4 1 4 56 0
+BOX : HEAD 0 -8.9 -4.9 4 1 4 56 0
+BOX : HEAD 0 -8.9 -1 4 1 4 56 0
+BOX : HEAD -3 -9.9 -4 6 1 6 56 0

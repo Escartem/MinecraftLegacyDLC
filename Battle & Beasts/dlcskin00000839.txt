@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Native American
+FREE : 1

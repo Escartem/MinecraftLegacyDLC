@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Moon Knight
+CAPEPATH : dlccape00001722.png
+THEMENAME : Marvel Avengers

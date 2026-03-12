@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : General Akamoto
+THEMENAME : Skulls of the Shogun
+FREE : 1
+CREDIT : Skulls of the Shogun characters used with kind permission of 17-BIT. All rights reserved.

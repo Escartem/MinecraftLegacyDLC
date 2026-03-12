@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Marley's Ghost
+FREE : 1
+ANIM : 0x06

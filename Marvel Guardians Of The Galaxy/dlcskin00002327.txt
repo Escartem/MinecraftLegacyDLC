@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Nova
+THEMENAME : Guardians of the Galaxy

@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Marcus Fenix
+THEMENAME : Gears of War 3
+CREDIT : Gears of War and Marcus Fenix are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere.

@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Charlie Murder
+THEMENAME : Charlie Murder
+CREDIT : Charlie Murder characters from Charlie Murder used with kind permission of Ska Studios. All rights reserved.

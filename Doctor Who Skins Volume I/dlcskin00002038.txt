@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Liz 10
+CAPEPATH : dlccape00002010.png

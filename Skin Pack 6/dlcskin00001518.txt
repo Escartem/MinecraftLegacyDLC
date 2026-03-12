@@ -1,0 +1,9 @@
+FILETYPE : Skin
+DISPLAYNAME : Doc Hanson
+THEMENAME : State of Decay
+BOX : BODY -3 2 2 6 6 2 24 0
+BOX : HEAD -2 -10 -2 4 2 4 56 1
+BOX : HEAD -4 -8.9 -3 1 1 3 56 0
+BOX : HEAD -4 -8.9 0 1 1 3 56 0
+BOX : HEAD 3 -8.9 -3 1 1 3 56 0
+BOX : HEAD 3 -8.9 0 1 1 3 56 0

@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Isaac Clarke
+THEMENAME : Dead Space 3
+CREDIT : © 2013 Electronic Arts Inc. EA, the EA logo, Visceral Games and Dead Space are trademarks of Electronic Arts Inc. All other trademarks are the property of their respective owners
+BOX : BODY -2 2 -4 4 1 2 24 0

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Prisoner
+FREE : 1

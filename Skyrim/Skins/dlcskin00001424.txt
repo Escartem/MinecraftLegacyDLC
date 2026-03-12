@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Astrid
+THEMENAME : Skyrim

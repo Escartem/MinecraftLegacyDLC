@@ -1,0 +1,4 @@
+FILETYPE : Skin
+FREE : 1
+DISPLAYNAME : German Sergeant
+THEMENAME : World War 2

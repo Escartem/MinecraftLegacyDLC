@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Peasant
+FREE : 1

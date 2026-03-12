@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Breton Mage
+THEMENAME : Skyrim

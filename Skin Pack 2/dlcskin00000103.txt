@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Naked Sheep Man
+THEMENAME : Minecraft

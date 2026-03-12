@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Pretztail
+THEMENAME : Viva Piñata

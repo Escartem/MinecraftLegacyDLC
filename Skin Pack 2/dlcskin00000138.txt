@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Horstashio
+THEMENAME : Viva Piñata

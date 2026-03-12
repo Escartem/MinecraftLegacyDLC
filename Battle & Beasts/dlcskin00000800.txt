@@ -1,0 +1,2 @@
+FILETYPE : Skin
+DISPLAYNAME : Enderman in a Suit

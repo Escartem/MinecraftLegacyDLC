@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Pilot
+FREE : 1

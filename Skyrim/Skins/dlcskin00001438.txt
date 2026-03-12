@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Master Necromancer
+THEMENAME : Skyrim

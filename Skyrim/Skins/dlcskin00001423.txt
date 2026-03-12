@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Isran
+THEMENAME : Skyrim
+BOX : HEAD -1 0 -4 2 2 1 24 0

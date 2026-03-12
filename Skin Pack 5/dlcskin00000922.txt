@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Vaas Montenegro
+THEMENAME : Far Cry 3

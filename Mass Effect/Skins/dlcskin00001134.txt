@@ -1,0 +1,6 @@
+FILETYPE : Skin
+THEMENAME : Mass Effect
+DISPLAYNAME : Collector
+BOX : HEAD -2 -7 4 4 4 3 24 0
+BOX : HEAD -1 -6 7 2 2 1 24 0
+BOX : HEAD -1 -5 8 2 1 1 24 0

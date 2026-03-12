@@ -1,0 +1,9 @@
+FILETYPE : Skin
+DISPLAYNAME : Quasar
+THEMENAME : Guardians of the Galaxy
+CAPEPATH : dlccape00002304.png
+BOX : ARM1 -1 -2.03 -2 4 4 4 24 0
+BOX : ARM0 -3 -2.03 -2 4 4 4 56 0
+BOX : LEG0 -2.01 0 -2 0 4 4 56 14
+BOX : LEG0 -2 0 -2.01 1 4 1 56 22
+BOX : LEG0 -2.01 0 1.01 1 4 1 60 22

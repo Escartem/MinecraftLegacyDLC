@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : The Player
+THEMENAME : Retro City Rampage
+CREDIT : The Player character used with kind permission of Vblank Entertainment Inc. RETRO CITY RAMPAGE, the game, characters and all related elements are trademarks of Vblank Entertainment Inc. © 2012 All Rights Reserved.
+FREE : 1

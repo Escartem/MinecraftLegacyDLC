@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Ninja
+FREE : 1

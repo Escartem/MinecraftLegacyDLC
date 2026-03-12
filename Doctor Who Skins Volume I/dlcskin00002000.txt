@@ -1,0 +1,6 @@
+FILETYPE : Skin
+DISPLAYNAME : The Eleventh Doctor
+BOX : HEAD 0 -11 -3 3 3 3 58 0
+BOX : HEAD -3 -11 -3 3 3 3 58 0
+BOX : HEAD -3 -11 0 3 3 3 58 0
+BOX : HEAD 0 -11 0 3 3 3 58 0

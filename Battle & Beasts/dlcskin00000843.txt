@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : African Warrior
+FREE : 1

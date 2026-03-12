@@ -1,0 +1,5 @@
+FILETYPE : Skin
+THEMENAME : Mass Effect
+DISPLAYNAME : Geth Trooper
+BOX : HEAD -2 -8 -6 4 4 2 24 0
+BOX : HEAD -2 -8 -7 4 4 1 25 1

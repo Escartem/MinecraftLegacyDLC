@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Egyptian Man
+FREE : 1

@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Cowboy
+FREE : 1
+BOX : HEAD -2 -11 -2 4 3 4 24 0
+BOX : HEAD -1 -11 -3 2 3 1 36 16

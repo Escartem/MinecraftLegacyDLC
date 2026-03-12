@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Gwen Stacy
+THEMENAME : Marvel Spider-Man
+BOX : LEG0 -2 11 0 4 1 1 24 0
+BOX : LEG1 -2 11 0 4 1 1 24 0

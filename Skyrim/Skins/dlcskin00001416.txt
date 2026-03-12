@@ -1,0 +1,6 @@
+FILETYPE : Skin
+DISPLAYNAME : Stormcloak Soldier
+THEMENAME : Skyrim
+BOX : HEAD -3 -9 -3 6 1 6 18 0
+BOX : HEAD -3 -10 -3 6 1 6 18 0
+BOX : HEAD -1 -12 -1 2 2 2 56 20

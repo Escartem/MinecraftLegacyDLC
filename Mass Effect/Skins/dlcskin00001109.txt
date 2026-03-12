@@ -1,0 +1,4 @@
+FILETYPE : Skin
+FREE : 1
+THEMENAME : Mass Effect
+DISPLAYNAME : Jack

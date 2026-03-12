@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : The War Doctor
+BOX : HEAD 1 -9 -3 2 2 2 24 0
+BOX : HEAD -3 -9 -3 2 2 2 24 0
+BOX : HEAD -1 -10 -4 2 2 2 24 0

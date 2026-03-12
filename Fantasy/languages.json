@@ -1,0 +1,42 @@
+{
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "The golden times are here. A medieval, fantasy look for your worlds.",
+        "IDS_DISPLAY_NAME": "Fantasy Texture Pack"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "Goldene Zeiten! Ein mittelalterlicher Fantasy-Look für deine Welten.",
+        "IDS_DISPLAY_NAME": "Fantasy-Texturpaket"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "L'âge d'or est de retour. Une apparence médiévale fantasy pour vos mondes.",
+        "IDS_DISPLAY_NAME": "Pack texture Fantasy"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "L'epoca d'oro è tornata. Ecco un aspetto medievale per i tuoi mondi.",
+        "IDS_DISPLAY_NAME": "P. texture fantasy"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "La Edad de Oro ha vuelto. Un aspecto medieval y de fantasía para vuestros mundos.",
+        "IDS_DISPLAY_NAME": "Pack text. Fantasía"
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "A era de ouro chegou. Um aspecto de fantasia medieval para os seus mundos.",
+        "IDS_DISPLAY_NAME": "Pac.Textura Fantasy"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "黄金時代を再現! 中世ファンタジーの世界を描き出そう",
+        "IDS_DISPLAY_NAME": "ファンタジー テクスチャ パック"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "황금기가 도래했습니다. 중세 판타지의 느낌을 여러분의 월드에 부여하십시오.",
+        "IDS_DISPLAY_NAME": "판타지 텍스처 팩"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "Os tempos dourados estão de volta. Um visual medieval para os seus mundos.",
+        "IDS_DISPLAY_NAME": "Pac. textura Fantasy"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "美好的黃金時代。讓您的世界擁有中古世紀風格的奇幻外觀。",
+        "IDS_DISPLAY_NAME": "奇幻材質套件"
+    }
+}

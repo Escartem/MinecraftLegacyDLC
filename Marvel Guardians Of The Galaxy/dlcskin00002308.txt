@@ -1,0 +1,8 @@
+FILETYPE : Skin
+DISPLAYNAME : Wraith
+THEMENAME : Guardians of the Galaxy
+CAPEPATH : dlccape00002308.png
+BOX : LEG0 -1.9 2 -1.9 4 1 4 56 3
+BOX : LEG0 -2.1 2 -2.1 4 1 4 24 3
+BOX : LEG0 1.1 2 -2.1 1 1 1 56 5
+BOX : LEG0 -2.1 2 1.1 1 1 1 56 3

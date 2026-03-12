@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : The Twelfth Doctor
+CREDIT : BBC logo © BBC 1996. Doctor Who logo © BBC 2009. Dalek image © BBC/ Terry Nation 1963. Cyberman image © BBC/Kit Pedler/Gerry Davis 1966. K-9 image © BBC/Bob Baker/Dave Martin 1977. Licensed by BBC Worldwide Limited.

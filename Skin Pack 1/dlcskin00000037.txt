@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Victorian Swimmer
+FREE : 1

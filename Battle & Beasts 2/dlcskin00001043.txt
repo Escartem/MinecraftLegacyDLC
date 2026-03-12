@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Mole Rat
+FREE : 1

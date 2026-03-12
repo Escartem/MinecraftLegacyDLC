@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Sergeant Rex "Power" Colt
+THEMENAME : Far Cry 3: Blood Dragon
+CREDIT : © 2012-2013 Ubisoft Entertainment. All Rights Reserved. Far Cry, Ubisoft, and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries.

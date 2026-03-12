@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Orc Warrior Male
+THEMENAME : Skyrim

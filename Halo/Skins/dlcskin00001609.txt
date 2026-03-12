@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Corbulo Cadet
+THEMENAME : Halo

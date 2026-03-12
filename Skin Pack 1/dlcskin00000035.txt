@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Nurse
+FREE : 1

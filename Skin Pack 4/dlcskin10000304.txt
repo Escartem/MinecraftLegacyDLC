@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Red Spartan
+THEMENAME : Halo
+CREDIT : © 2013 Microsoft Corporation. All rights reserved. Microsoft, 343 Industries, Halo and the Halo Logo are the trademarks of Microsoft group of companies.

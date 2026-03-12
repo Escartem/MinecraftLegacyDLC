@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Baker's Wife
+FREE : 1

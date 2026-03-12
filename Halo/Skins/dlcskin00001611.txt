@@ -1,0 +1,6 @@
+FILETYPE : Skin
+DISPLAYNAME : Noble Six
+THEMENAME : Halo
+BOX : HEAD -2 -8 -4.9 4 1 1 24 3
+BOX : HEAD -3 -7 -4.9 6 1 1 24 0
+BOX : HEAD -2 -7 -5.9 4 1 1 24 5

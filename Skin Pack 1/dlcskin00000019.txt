@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Mumbo Jumbo
+THEMENAME : Banjo-Kazooie

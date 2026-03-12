@@ -1,0 +1,4 @@
+FILETYPE : Skin
+FREE : 1
+DISPLAYNAME : Imperial Japanese Soldier
+THEMENAME : World War 2

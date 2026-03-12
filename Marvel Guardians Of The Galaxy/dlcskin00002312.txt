@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Star-Lord (Comics)
+THEMENAME : Guardians of the Galaxy

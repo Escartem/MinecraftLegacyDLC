@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Forsworn Shaman
+THEMENAME : Skyrim

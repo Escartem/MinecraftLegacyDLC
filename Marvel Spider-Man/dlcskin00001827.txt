@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Spider-Man - Black suit
+THEMENAME : Marvel Spider-Man
+CREDIT : Marvel Spider-Man Skin Pack
+CREDIT : © 2014 Marvel.  Marvel, the Marvel logo and all Marvel character names are trademarks of Marvel Characters, B.V. or its affiliates.  All rights reserved.

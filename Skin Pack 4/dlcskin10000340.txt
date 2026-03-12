@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Baroness
+FREE : 1

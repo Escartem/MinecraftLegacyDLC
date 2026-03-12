@@ -1,0 +1,7 @@
+FILETYPE : Skin
+DISPLAYNAME : Gamora
+THEMENAME : Guardians of the Galaxy
+BOX : LEG1 -1 9 -1 2 3 3 24 0
+BOX : LEG1 -2 9 -2 4 0 4 56 0
+BOX : LEG0 -1 9 -1 2 3 3 24 0
+BOX : LEG0 -2 9 -2 4 0 4 56 0

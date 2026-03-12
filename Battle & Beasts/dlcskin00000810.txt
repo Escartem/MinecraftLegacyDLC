@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Hippopotamus
+FREE : 1

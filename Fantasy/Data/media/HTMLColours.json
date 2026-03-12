@@ -1,0 +1,248 @@
+{
+    "HTMLColor_8": {
+        "r": 164,
+        "g": 161,
+        "b": 161,
+        "a": 0
+    },
+    "HTMLColor_0": {
+        "r": 55,
+        "g": 43,
+        "b": 15,
+        "a": 0
+    },
+    "HTMLColor_1": {
+        "r": 123,
+        "g": 156,
+        "b": 235,
+        "a": 0
+    },
+    "HTMLColor_2": {
+        "r": 76,
+        "g": 235,
+        "b": 76,
+        "a": 0
+    },
+    "HTMLColor_3": {
+        "r": 16,
+        "g": 158,
+        "b": 158,
+        "a": 0
+    },
+    "HTMLColor_4": {
+        "r": 170,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "HTMLColor_5": {
+        "r": 229,
+        "g": 99,
+        "b": 229,
+        "a": 0
+    },
+    "HTMLColor_6": {
+        "r": 235,
+        "g": 184,
+        "b": 79,
+        "a": 0
+    },
+    "HTMLColor_7": {
+        "r": 235,
+        "g": 207,
+        "b": 117,
+        "a": 0
+    },
+    "HTMLColor_9": {
+        "r": 146,
+        "g": 145,
+        "b": 235,
+        "a": 0
+    },
+    "HTMLColor_a": {
+        "r": 85,
+        "g": 255,
+        "b": 85,
+        "a": 0
+    },
+    "HTMLColor_b": {
+        "r": 85,
+        "g": 255,
+        "b": 255,
+        "a": 0
+    },
+    "HTMLColor_c": {
+        "r": 255,
+        "g": 85,
+        "b": 85,
+        "a": 0
+    },
+    "HTMLColor_d": {
+        "r": 255,
+        "g": 85,
+        "b": 255,
+        "a": 0
+    },
+    "HTMLColor_e": {
+        "r": 232,
+        "g": 213,
+        "b": 99,
+        "a": 0
+    },
+    "HTMLColor_f": {
+        "r": 235,
+        "g": 207,
+        "b": 117,
+        "a": 0
+    },
+    "HTMLColor_dark_0": {
+        "r": 45,
+        "g": 34,
+        "b": 15,
+        "a": 0
+    },
+    "HTMLColor_dark_1": {
+        "r": 0,
+        "g": 0,
+        "b": 42,
+        "a": 0
+    },
+    "HTMLColor_dark_2": {
+        "r": 0,
+        "g": 42,
+        "b": 0,
+        "a": 0
+    },
+    "HTMLColor_dark_3": {
+        "r": 0,
+        "g": 42,
+        "b": 42,
+        "a": 0
+    },
+    "HTMLColor_dark_4": {
+        "r": 42,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    },
+    "HTMLColor_dark_5": {
+        "r": 42,
+        "g": 0,
+        "b": 42,
+        "a": 0
+    },
+    "HTMLColor_dark_6": {
+        "r": 42,
+        "g": 42,
+        "b": 0,
+        "a": 0
+    },
+    "HTMLColor_dark_7": {
+        "r": 42,
+        "g": 42,
+        "b": 42,
+        "a": 0
+    },
+    "HTMLColor_dark_8": {
+        "r": 21,
+        "g": 21,
+        "b": 21,
+        "a": 0
+    },
+    "HTMLColor_dark_9": {
+        "r": 21,
+        "g": 21,
+        "b": 63,
+        "a": 0
+    },
+    "HTMLColor_dark_a": {
+        "r": 21,
+        "g": 63,
+        "b": 21,
+        "a": 0
+    },
+    "HTMLColor_dark_b": {
+        "r": 21,
+        "g": 62,
+        "b": 63,
+        "a": 0
+    },
+    "HTMLColor_dark_c": {
+        "r": 63,
+        "g": 21,
+        "b": 21,
+        "a": 0
+    },
+    "Color_EnchantTextFocus": {
+        "r": 255,
+        "g": 255,
+        "b": 128,
+        "a": 0
+    },
+    "HTMLColor_dark_d": {
+        "r": 63,
+        "g": 21,
+        "b": 63,
+        "a": 0
+    },
+    "HTMLColor_dark_e": {
+        "r": 15,
+        "g": 44,
+        "b": 54,
+        "a": 0
+    },
+    "HTMLColor_dark_f": {
+        "r": 71,
+        "g": 54,
+        "b": 15,
+        "a": 0
+    },
+    "HTMLColor_T1": {
+        "r": 235,
+        "g": 65,
+        "b": 65,
+        "a": 0
+    },
+    "HTMLColor_T2": {
+        "r": 147,
+        "g": 182,
+        "b": 235,
+        "a": 0
+    },
+    "HTMLColor_T3": {
+        "r": 117,
+        "g": 198,
+        "b": 112,
+        "a": 0
+    },
+    "HTMLColor_Black": {
+        "r": 15,
+        "g": 46,
+        "b": 56,
+        "a": 0
+    },
+    "HTMLColor_White": {
+        "r": 235,
+        "g": 228,
+        "b": 111,
+        "a": 0
+    },
+    "Color_EnchantText": {
+        "r": 161,
+        "g": 215,
+        "b": 235,
+        "a": 0
+    },
+    "Color_EnchantTextDisabled": {
+        "r": 28,
+        "g": 45,
+        "b": 59,
+        "a": 0
+    },
+    "Color_RenamedItemTitle": {
+        "r": 255,
+        "g": 0,
+        "b": 217,
+        "a": 0
+    }
+}

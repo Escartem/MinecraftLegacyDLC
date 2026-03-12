@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Gingerbread Woman
+BOX : BODY 0 3 -3 1 1 1 56 16
+BOX : BODY 0 7 -3 1 1 1 56 18
+FREE : 1

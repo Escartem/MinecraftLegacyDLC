@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Dr Rosenberg
+THEMENAME : Half Life

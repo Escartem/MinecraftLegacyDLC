@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Elf
+FREE : 1

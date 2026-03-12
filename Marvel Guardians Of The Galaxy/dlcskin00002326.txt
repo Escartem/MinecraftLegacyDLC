@@ -1,0 +1,11 @@
+FILETYPE : Skin
+DISPLAYNAME : Nebula
+THEMENAME : Guardians of the Galaxy
+BOX : ARM1 -1 2 -2.1 4 4 4 24 0
+BOX : ARM1 -0.9 2 -2 4 4 4 24 0
+BOX : ARM1 -1.1 2 -2 4 4 4 24 0
+BOX : ARM1 -1 2 -1.9 4 4 4 24 0
+BOX : ARM1 -1 -1 -2.1 4 3 4 56 0
+BOX : ARM1 -0.9 -1 -2 4 3 4 56 0
+BOX : ARM1 -1.1 -1 -2 4 3 4 56 0
+BOX : ARM1 -1 -1 -1.9 4 3 4 56 0

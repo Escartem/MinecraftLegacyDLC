@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Hammerhead
+THEMENAME : Marvel Spider-Man

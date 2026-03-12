@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Coach
+THEMENAME : Left 4 Dead 2
+CREDIT : Valve properties and characters from Valve published titles used with kind permission.

@@ -1,0 +1,62 @@
+{
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "Mass Effect meets Minecraft! This Mash-Up Pack contains a Mass Effect style Texture Pack, and a Skin Pack with 36 Mass Effect characters!",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mass Effect World",
+        "IDS_SAVE_NAME": "Mass Effect Save"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "Mass Effect trifft Minecraft! Im Mash-up-Paket: ein Mass-Effect-Texturpaket und ein Skinpaket mit 36 Figuren aus Mass Effect!",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mass-Effect-Welt",
+        "IDS_SAVE_NAME": "Mass-Effect-Spielstand"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "Mass Effect rencontre Minecraft ! Ce pack mash-up contient un pack de textures et de skin inspiré de Mass Effect avec 36 personnages !",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Monde Mass Effect",
+        "IDS_SAVE_NAME": "Sauvegarde Mass Effect"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "Mass Effect incontra Minecraft! Questo pacchetto mash-up ne contiene uno texture e uno di skin con ben 36 personaggi di Mass Effect!",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mondo Mass Effect",
+        "IDS_SAVE_NAME": "Salvataggio Mass Effect"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "¡Mass Effect en Minecraft! Un pack Mash-Up con uno de textura basado en Mass Effect y otro de aspecto con 36 de sus personajes.",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mundo de Mass Effect",
+        "IDS_SAVE_NAME": "Guardado de Mass Effect"
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "Mass Effect no Minecraft! Pacote Mash-Up com um Pacote de Textura e um Pacote de Máscaras com 36 personagens de Mass Effect!",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mundo Mass Effect",
+        "IDS_SAVE_NAME": "Gravação Mass Effect"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "Mass Effect と Minecraft がコラボ! 36 種のスキンとテクスチャ パックのセット",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mass Effect の世界",
+        "IDS_SAVE_NAME": "Mass Effect セーブ"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "Mass Effect와 Minecraft의 만남! Mass Effect 텍스처 및 캐릭터 36명이 포함되어 있습니다!",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mass Effect 월드",
+        "IDS_SAVE_NAME": "Mass Effect 저장 데이터"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "Mass Effect com Minecraft! Este Pacote Mash-Up contém um Pacote de texturas e um Pacote de peles com 36 personagens de Mass Effect!",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mundo de Mass Effect",
+        "IDS_SAVE_NAME": "Resgate Mass Effect"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "當 Mass Effect 遇上 Minecraft！內含  Mass Effect 風格材質及 36 個角色外觀！",
+        "IDS_DISPLAY_NAME": "Mass Effect",
+        "IDS_WORLD_NAME": "Mass Effect 世界",
+        "IDS_SAVE_NAME": "Mass Effect 存檔"
+    }
+}

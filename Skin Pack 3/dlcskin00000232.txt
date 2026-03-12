@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Ivan
+THEMENAME : Toy Soldiers: Cold War

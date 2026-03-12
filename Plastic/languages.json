@@ -1,0 +1,78 @@
+{
+    "sv-SV": {
+        "IDS_TP_DESCRIPTION": "Ett ljust och okomplicerat texturpaket med chokladblocksmönster och enkla ikoner.",
+        "IDS_DISPLAY_NAME": "Texturpaket - Plast"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "Ein Paket mit hellen, schlichten Texturen, Schokoblock-Hervorhebung und schlichten Symbolen.",
+        "IDS_DISPLAY_NAME": "Texturpaket Plastik"
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "Um pacote de texturas simples e muito colorido que destaca blocos de chocolate e tem ícones simples.",
+        "IDS_DISPLAY_NAME": "Pack Text. Plástico"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "Un pack de textura sencillo y coloreado con resaltamiento de bloques chocolate e iconos simples.",
+        "IDS_DISPLAY_NAME": "Textura de plástico"
+    },
+    "nl-NL": {
+        "IDS_TP_DESCRIPTION": "Een felgekleurd texturepakket met chocolade-accenten en eenvoudige pictogrammen.",
+        "IDS_DISPLAY_NAME": "Texturepakket Plastic"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "Un pack de textures simple et coloré avec une mise en surbrillance de blocs chocolatée et des icônes simples.",
+        "IDS_DISPLAY_NAME": "Pack de textures Plastique"
+    },
+    "ru-RU": {
+        "IDS_TP_DESCRIPTION": "Набор из простых, окрашенных в яркие цвета текстур, шоколадной подсветки для блоков и простых иконок.",
+        "IDS_DISPLAY_NAME": "Набор пластиковых текстур"
+    },
+    "fi-FI": {
+        "IDS_TP_DESCRIPTION": "Kirkkaanvärinen, yksinkertainen tekstuuripaketti suklaapalakorostuksilla ja yksinkertaisilla kuvakkeilla.",
+        "IDS_DISPLAY_NAME": "Muovitekstuuripaketti"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "Pacchetto texture colorato con blocchi di cioccolata e icone semplici.",
+        "IDS_DISPLAY_NAME": "P. texture  plastica"
+    },
+    "da-DA": {
+        "IDS_TP_DESCRIPTION": "En farverig og enkel teksturpakke med chokoladeovertræk til almindelige blokke og enkle ikoner.",
+        "IDS_DISPLAY_NAME": "Plastik-teksturpakke"
+    },
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "A brightly coloured, simple texture pack with chocolate block highlighting and simple icons.",
+        "IDS_DISPLAY_NAME": "Plastic Texture Pack"
+    },
+    "no-NO": {
+        "IDS_TP_DESCRIPTION": "En lys og enkel teksturpakke med sjokolademønster og enkle ikoner.",
+        "IDS_DISPLAY_NAME": "Teksturpakke – Plast"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "鮮やかな色調で、チョコ風の表示と見やすさが特徴のテクスチャ パック。",
+        "IDS_DISPLAY_NAME": "クリエイティブ テクスチャ パック"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "눈에 확 띄는 초콜릿색 블록과 단순한 아이콘이 포함된 밝은 색깔의 단순한 텍스처 팩입니다.",
+        "IDS_DISPLAY_NAME": "플라스틱 텍스처 팩"
+    },
+    "la-LAS": {
+        "IDS_TP_DESCRIPTION": "Un pack de sencillas texturas de colores brillantes con bloques de chocolate e íconos simples.",
+        "IDS_DISPLAY_NAME": "Pack de textura plástica"
+    },
+    "pl-PL": {
+        "IDS_TP_DESCRIPTION": "Pakiet prostych tekstur w jasnych barwach, z kolorowym podświetleniem bloków i prostymi ikonami. ",
+        "IDS_DISPLAY_NAME": "Pakiet plastikowych tekstur"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "Um pacote de texturas simples e de cores brilhantes, com iluminação de blocos de chocolate e ícones simples.",
+        "IDS_DISPLAY_NAME": "Pac. Text. plásticas"
+    },
+    "tr-TR": {
+        "IDS_TP_DESCRIPTION": "Çikolatalı bloğa ve basit simgelere sahip parlak renkte, basit bir kaplama paketi.",
+        "IDS_DISPLAY_NAME": "Plastik Kaplama Paketi"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "有著巧克力磚造型的簡單圖示，色彩鮮艷、簡單的材質套件。",
+        "IDS_DISPLAY_NAME": "塑膠材質套件"
+    }
+}

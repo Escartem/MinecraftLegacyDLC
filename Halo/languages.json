@@ -1,0 +1,72 @@
+{
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "Halo meets Minecraft! This Mash-Up Pack contains a Halo style Texture Pack, Skin Pack, and a Halo themed world to explore!",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Halo World",
+        "IDS_SAVE_NAME": "Halo Save",
+        "IDS_COLLECTED_MUSIC_DISCS": "You have found {*progress*} of {*goal*} Music Discs!"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "Halo trifft Minecraft! Dieses Mash-up-Paket enthält ein Texturpaket und ein Skinpaket im Halo-Stil und lässt dich eine von Halo inspirierte Welt entdecken!",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Halo-Welt",
+        "IDS_SAVE_NAME": "Halo-Speicherdatei",
+        "IDS_COLLECTED_MUSIC_DISCS": "Du hast {*progress*} von {*goal*} Schallplatten gefunden!"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "Retrouvez Halo dans Minecraft ! Ce pack mash-up renferme un pack de textures, un pack de skins et tout un monde sur le thème de Halo à découvrir !",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Monde Halo",
+        "IDS_SAVE_NAME": "Sauvegarde Halo",
+        "IDS_COLLECTED_MUSIC_DISCS": "Vous avez trouvé {*progress*} disques de musique sur {*goal*} !"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "Halo incontra Minecraft! Questo pacchetto Mash-Up contiene pacchetto texture, pacchetto skin e mondo in stile Halo!",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Mondo Halo",
+        "IDS_SAVE_NAME": "Sauvegarde Halo",
+        "IDS_COLLECTED_MUSIC_DISCS": "Hai trovato {*progress*} dischi su {*goal*}!"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "¡Halo en Minecraft! Este pack de popurrí contiene uno de textura basado en Halo, otro de aspecto y un mundo inspirado en Halo.",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Mundo de Halo",
+        "IDS_SAVE_NAME": "Archivo de guardado de Halo",
+        "IDS_COLLECTED_MUSIC_DISCS": "¡Has encontrado {*progress*} de los {*goal*} discos!"
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "Halo encontra Minecraft! Este Pack Mash-Up Pack contém um Pack de Texturas estilo Halo, Pack de Máscaras e um mundo temático Halo para explorar!",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Mundo Halo",
+        "IDS_SAVE_NAME": "Ficheiro Halo",
+        "IDS_COLLECTED_MUSIC_DISCS": "Encontraste {*progress*} de {*goal*} Discos de Música!"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "Halo と Minecraft が一緒に! このマッシュアップ パックには、Halo 風のテクスチャパックとスキンパック、Halo の世界を舞台にプレイできる Halo World が含まれます!",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Halo World",
+        "IDS_SAVE_NAME": "Halo セーブ",
+        "IDS_COLLECTED_MUSIC_DISCS": "{*goal*} の {*progress*} 音楽ディスクを見つけました!"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "Halo와 Minecraft가 만났다! 이 매시업 팩에는 Halo 스타일 텍스쳐 팩, 스킨 팩, 그리고 Halo를 테마로 한 모험의 세계가 들어가 있습니다!",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Halo 월드",
+        "IDS_SAVE_NAME": "Halo 저장 데이터",
+        "IDS_COLLECTED_MUSIC_DISCS": "음악 디스크 {*progress*}/{*goal*}장을 찾았습니다!"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "Halo encontra o Minecraft! Este Pacote de Mash-Up contém um Pacote de Texturas em estilo Halo, um Pacote de Aparência e um mundo temático Halo para você explorar!",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Mundo Halo",
+        "IDS_SAVE_NAME": "Salvamento Halo",
+        "IDS_COLLECTED_MUSIC_DISCS": "Você encontrou {*progress*} de {*goal*} Discos de Música!"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "當 Halo 遇上 Minecraft！這個結合兩者的套件包含了一個 Halo 風格的材質套件，外觀套件和 Halo 主題的世界等著您去探險！",
+        "IDS_DISPLAY_NAME": "Halo",
+        "IDS_WORLD_NAME": "Halo 世界",
+        "IDS_SAVE_NAME": "Halo 存檔",
+        "IDS_COLLECTED_MUSIC_DISCS": "您已經找到了 {*progress*} / {*goal*} 片音樂 CD！"
+    }
+}

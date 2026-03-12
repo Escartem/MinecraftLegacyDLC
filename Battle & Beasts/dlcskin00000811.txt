@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Elephant
+BOX : HEAD -1 -3 -6 2 10 2 56 20
+BOX : HEAD -1 5 -7 2 2 1 36 16

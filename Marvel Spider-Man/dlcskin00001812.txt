@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Kraven
+THEMENAME : Marvel Spider-Man
+CAPEPATH : dlccape00001812.png

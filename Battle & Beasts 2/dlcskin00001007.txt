@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Red Panda
+FREE : 1
+BOX : BODY -1 10 2 2 2 6 24 0

@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Vampire Lord
+THEMENAME : Skyrim
+CAPEPATH : dlccape00001422.png

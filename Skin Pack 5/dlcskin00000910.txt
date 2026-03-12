@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Ellie Langford
+THEMENAME : Dead Space 3

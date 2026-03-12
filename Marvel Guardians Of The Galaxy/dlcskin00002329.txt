@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Ronan the Accuser
+THEMENAME : Guardians of the Galaxy
+CAPEPATH : dlccape00002329.png

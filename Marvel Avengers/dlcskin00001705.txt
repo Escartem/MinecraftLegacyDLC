@@ -1,0 +1,6 @@
+FILETYPE : Skin
+BOX : HEAD -4 -10 -1 1 2 2 00 00
+BOX : HEAD 3 -10 -1 1 2 2 00 00
+DISPLAYNAME : Black Panther
+THEMENAME : Marvel Avengers
+CAPEPATH : dlccape00001705.png

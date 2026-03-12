@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Trials Rider
+THEMENAME : Trials HD
+CREDIT : Trials HD & Trials Evolution Characters © 2012 Ubisoft Entertainment. All rights Reserved. Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries. RedLynx is a trademark of Redlynx in the US and/or other countries. Redlynx is a Ubisoft Entertainment company.

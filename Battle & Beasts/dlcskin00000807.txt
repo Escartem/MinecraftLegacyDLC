@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Mandrill Baboon
+FREE : 1

@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Glorg
+THEMENAME : Glorg
+CREDIT : Glorg from Glorg! is used with permission of Webbfarbror
+FREE : 1

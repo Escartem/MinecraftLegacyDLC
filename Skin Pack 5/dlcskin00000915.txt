@@ -1,0 +1,7 @@
+FILETYPE : Skin
+DISPLAYNAME : Sam Fisher
+THEMENAME : Splinter Cell Blacklist
+CREDIT : © 2002–2013 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, Splinter Cell, Blacklist, Sam Fisher, the Soldier Icon, Ubisoft, and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries.
+BOX : HEAD -1 -9 -6 2 2 2 24 0
+BOX : HEAD -4 -8 -6 2 2 2 24 0
+BOX : HEAD 2 -8 -6 2 2 2 24 0

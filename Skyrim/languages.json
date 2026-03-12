@@ -1,0 +1,72 @@
+{
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "The Elder Scrolls V: Skyrim meets Minecraft! This Mash-Up Pack contains a Skyrim style Texture Pack, Skin Pack, and a Skyrim themed world to explore!",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Skyrim World",
+        "IDS_SAVE_NAME": "Skyrim Save",
+        "IDS_COLLECTED_MUSIC_DISCS": "You have found {*progress*} of {*goal*} Music Discs!"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "The Elder Scrolls V: Skyrim trifft auf Minecraft! Dieses Mash-Up-Paket erwartet dich ein Textur- und Skinpaket und eine Welt  im Skyrim-Design!",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Skyrim-Welt",
+        "IDS_SAVE_NAME": "Skyrim-Daten",
+        "IDS_COLLECTED_MUSIC_DISCS": "Du hast {*progress*} von {*goal*} Schallplatten gefunden!"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "Retrouvez The Elder Scrolls V: Skyrim dans Minecraft ! Ce pack mash-up renferme un pack de textures, un pack de skins et tout un monde Skyrim !",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Monde Skyrim",
+        "IDS_SAVE_NAME": "Sauvegarde Skyrim",
+        "IDS_COLLECTED_MUSIC_DISCS": "Vous avez trouvé {*progress*} / {*goal*} disques !"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "The Elder Scrolls V: Skyrim e Minecraft insieme! Contenuti: pacchetto texture a tema Skyrim, pacchetto skin e mondo in stile Skyrim da esplorare!",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Mondo Skyrim",
+        "IDS_SAVE_NAME": "Salvat. Skyrim",
+        "IDS_COLLECTED_MUSIC_DISCS": "Hai trovato {*progress*} dischi su {*goal*}!"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "¡The Elder Scrolls V: Skyrim en Minecraft! Este pack de popurrí contiene uno de textura, uno de aspecto y un mundo inspirados en Skyrim.",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Mundo de Skyrim",
+        "IDS_SAVE_NAME": "Datos de Skyrim",
+        "IDS_COLLECTED_MUSIC_DISCS": "\r\n      ¡Has encontrado {*progress*} de {*goal*} discos!\r\n    "
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "The Elder Scrolls V: Skyrim encontra Minecraft! Este Pack Mash-Up inclui um Pack de Textura Skyrim, outro de Máscaras e um mundo Skyrim para explorar!",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Mundo Skyrim",
+        "IDS_SAVE_NAME": "Gravação Skyrim",
+        "IDS_COLLECTED_MUSIC_DISCS": "Encontraste {*progress*} de {*goal*} Discos de Música!"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "The Elder Scrolls V: Skyrim と Minecraft がコラボ! Skyrim 風のテクスチャ、スキン、世界を堪能しよう!",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Skyrim の世界",
+        "IDS_SAVE_NAME": "Skyrim セーブ",
+        "IDS_COLLECTED_MUSIC_DISCS": "音楽ディスクを見つけました ({*progress*}/{*goal*})"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "The Elder Scrolls V: Skyrim이 Minecraft와 만났습니다! 이번 매시업 팩에는 Skyrim 스타일 텍스처 팩, 캐릭터 팩 및 Skyrim 테마 월드가 포함되어 있습니다!",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Skyrim 월드",
+        "IDS_SAVE_NAME": "Skyrim 저장 데이터",
+        "IDS_COLLECTED_MUSIC_DISCS": "음악 디스크 {*progress*}/{*goal*}장을 찾았습니다!"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "The Elder Scrolls V: Skyrim encontra o Minecraft! O pacote de Combinação contém Texturas, Peles e um mundo com tema Skyrim para você explorar!",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Mundo Skyrim",
+        "IDS_SAVE_NAME": "Salvam. Skyrim",
+        "IDS_COLLECTED_MUSIC_DISCS": "Você encontrou {*progress*} de {*goal*} discos de música!"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "The Elder Scrolls V: Skyrim 遇見 Minecraft 啦！本混搭套件內含 Skyrim 風格材質套件與角色外觀，探索以 Skyrim 為主題的世界！",
+        "IDS_DISPLAY_NAME": "The Elder Scrolls V: Skyrim",
+        "IDS_WORLD_NAME": "Skyrim 世界",
+        "IDS_SAVE_NAME": "Skyrim 存檔",
+        "IDS_COLLECTED_MUSIC_DISCS": "您已經找到 {*progress*}/{*goal*} 張唱片！"
+    }
+}

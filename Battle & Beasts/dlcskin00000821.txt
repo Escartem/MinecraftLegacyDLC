@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Spartan
+CAPEPATH : dlccape00000821.png

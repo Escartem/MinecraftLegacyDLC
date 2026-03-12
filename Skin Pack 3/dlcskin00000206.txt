@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Clunk
+THEMENAME : Awesomenauts

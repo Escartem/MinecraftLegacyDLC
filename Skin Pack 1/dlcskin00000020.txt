@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Klungo
+THEMENAME : Banjo-Kazooie

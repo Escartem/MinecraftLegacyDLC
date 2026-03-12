@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Teen Girl
+FREE : 1

@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Major Victory
+THEMENAME : Guardians of the Galaxy
+CAPEPATH : dlccape00002323.png

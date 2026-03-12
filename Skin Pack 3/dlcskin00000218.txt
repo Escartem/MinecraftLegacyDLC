@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Gordon Freeman
+THEMENAME : Half Life

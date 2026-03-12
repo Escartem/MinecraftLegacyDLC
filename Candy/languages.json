@@ -1,0 +1,42 @@
+{
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "Indulge your sweet tooth with this sugar-coated texture pack!",
+        "IDS_DISPLAY_NAME": "Candy Texture Pack"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "Dieses zuckersüße Texturpaket ist perfekt für Naschkatzen!",
+        "IDS_DISPLAY_NAME": "Texturpaket Süßigkeiten"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "Laissez s'exprimer votre goût pour les sucreries avec ce pack de textures à croquer !",
+        "IDS_DISPLAY_NAME": "Pack de textures bonbons"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "Ecco un pacchetto texture ricco di zuccheri per chi ha un debole per i dolci!",
+        "IDS_DISPLAY_NAME": "Pacchetto texture caramella"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "Satisfaz tus caprichos más dulces con este azucarado pack de textura.",
+        "IDS_DISPLAY_NAME": "Pack de textura de golosina"
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "Experimenta este pacote de texturas com cobertura de açúcar!",
+        "IDS_DISPLAY_NAME": "Pacote de Texturas Doce"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "甘党には欠かせないスイーツ満載のテクスチャ パック!",
+        "IDS_DISPLAY_NAME": "キャンディー テクスチャ パック"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "달콤함이 듬뿍 담긴 텍스쳐 팩으로 맛있게 꾸며보세요!",
+        "IDS_DISPLAY_NAME": "캔디 텍스쳐 팩"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "Satisfaça sua vontade de doces com este açucarado pacote de texturas!",
+        "IDS_DISPLAY_NAME": "Pacote de Texturas Doce"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "藉由這個糖果材質套件來滿足您對甜點的喜好吧！",
+        "IDS_DISPLAY_NAME": "糖果材質套件"
+    }
+}

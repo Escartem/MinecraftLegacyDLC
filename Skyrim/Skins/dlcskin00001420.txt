@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Nazir
+THEMENAME : Skyrim
+CAPEPATH : dlccape00001420.png

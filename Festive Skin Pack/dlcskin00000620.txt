@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Gingerbread Man
+BOX : BODY -1 3 -3 2 2 1 56 16
+BOX : BODY -1 7 -3 2 2 1 56 19
+FREE : 1

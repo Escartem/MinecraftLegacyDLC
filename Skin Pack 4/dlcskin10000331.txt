@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Knight 1
+CAPEPATH : dlccape10000331.png
+FREE : 1

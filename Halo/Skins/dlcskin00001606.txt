@@ -1,0 +1,7 @@
+FILETYPE : Skin
+DISPLAYNAME : Doctor Halsey
+THEMENAME : Halo
+BOX : ARM0 -3 -2 -2 4 4 4 24 0
+BOX : ARM0 -3 2 -2 4 4 4 52 12
+BOX : ARM0 -3 6 -2 4 4 4 56 0
+BOX : ARM1 -1 -2 -2 4 4 4 24 0

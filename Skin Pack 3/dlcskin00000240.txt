@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Scribe
+FREE : 1

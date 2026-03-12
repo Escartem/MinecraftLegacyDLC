@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Silver Sable
+THEMENAME : Marvel Spider-Man
+BOX : LEG0 -2.9 1 -1.9 1 4 3 24 0
+BOX : LEG1 1.9 1 -1.9 1 4 3 24 0

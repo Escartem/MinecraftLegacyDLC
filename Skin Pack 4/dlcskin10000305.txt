@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Blue Spartan
+THEMENAME : Halo

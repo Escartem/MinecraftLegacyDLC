@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Elenwen
+THEMENAME : Skyrim

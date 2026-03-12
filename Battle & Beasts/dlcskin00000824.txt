@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Medieval Knight
+FREE : 1

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Ancano
+THEMENAME : Skyrim

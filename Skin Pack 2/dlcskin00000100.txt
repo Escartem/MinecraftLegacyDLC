@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Enderman Man
+THEMENAME : Minecraft

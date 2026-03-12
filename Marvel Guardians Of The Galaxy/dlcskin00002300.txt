@@ -1,0 +1,12 @@
+FILETYPE : Skin
+DISPLAYNAME : Adam Warlock
+THEMENAME : Guardians of the Galaxy
+CAPEPATH : dlccape00002300.png
+BOX : HEAD 4 -3 0 3 1 4 25 0
+BOX : HEAD 3.9 -2 -1 1 1 1 29 3
+BOX : HEAD -4.9 -2 -1 1 1 1 29 3
+BOX : HEAD 3 -3 4 3 1 3 26 1
+BOX : HEAD 0 -3 4 3 1 4 25 0
+BOX : HEAD -3 -3 4 3 1 4 25 0
+BOX : HEAD -6 -3 3 3 1 4 25 0
+BOX : HEAD -7 -3 0 3 1 4 25 0

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Blue Knight
+THEMENAME : Castle Crashers

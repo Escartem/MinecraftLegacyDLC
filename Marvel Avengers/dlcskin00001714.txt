@@ -1,0 +1,4 @@
+FILETYPE : Skin
+BOX : ARM0 -3.9 2 -1 2 7 2 56 20
+DISPLAYNAME : Iron Man Mark 1
+THEMENAME : Marvel Avengers

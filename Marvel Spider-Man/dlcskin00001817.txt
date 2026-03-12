@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Morbius
+THEMENAME : Marvel Spider-Man
+CAPEPATH : dlccape00001817.png

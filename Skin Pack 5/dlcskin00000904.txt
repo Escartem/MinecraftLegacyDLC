@@ -1,0 +1,3 @@
+FILETYPE : Skin
+FREE : 1
+DISPLAYNAME : Grass Man

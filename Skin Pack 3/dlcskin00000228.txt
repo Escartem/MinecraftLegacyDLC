@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Joe Danger
+THEMENAME : Joe Danger SE
+CREDIT : Joe Danger and characters from Joe Danger Special Edition & Joe Danger 2: The Movie used with kind permission of Hello Games Ltd. All rights reserved.

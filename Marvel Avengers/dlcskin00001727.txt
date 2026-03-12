@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Taskmaster
+CAPEPATH : dlccape00001727.png
+THEMENAME : Marvel Avengers

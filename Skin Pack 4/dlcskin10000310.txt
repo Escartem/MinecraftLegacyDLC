@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Altair
+THEMENAME : Assassins Creed
+CREDIT : © 2009-2012 Ubisoft Entertainment. All rights Reserved. Assassin’s Creed, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries.

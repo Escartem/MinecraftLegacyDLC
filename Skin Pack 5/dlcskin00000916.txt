@@ -1,0 +1,6 @@
+FILETYPE : Skin
+DISPLAYNAME : Sam Fisher
+THEMENAME : Splinter Cell Blacklist
+BOX : HEAD -1 -9 -6 2 2 2 24 0
+BOX : HEAD -4 -8 -6 2 2 2 24 0
+BOX : HEAD 2 -8 -6 2 2 2 24 0

@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Pen Yen
+THEMENAME : Slam Bolt Scrappers
+FREE : 1
+CREDIT : Slam Bolt Scrappers characters from Slam Bolt Scrappers are used with permission of Fire Hose Games.

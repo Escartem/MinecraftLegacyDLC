@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Roman Rory Williams
+FREE : 1
+CAPEPATH : dlccape00002009.png
+BOX : LEG1 1.99 0 -0.010 1 8 2 56 18

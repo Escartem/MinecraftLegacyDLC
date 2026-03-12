@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Modern Pirate
+FREE : 1
+BOX : BODY -4 0 -2.9 3 6 1 24 0
+BOX : BODY 1 0 -2.9 3 4 1 24 0

@@ -1,0 +1,8 @@
+FILETYPE : Skin
+DISPLAYNAME : Sensei
+THEMENAME : Fruit Ninja
+CREDIT : Used with permission of Halfbrick Studios Pty Ltd. All Fruit Ninja and Jetpack Joyride trademarks are property of Halfbrick Studios Pty Ltd.
+BOX : HEAD -4 0 -4 8 2 1 56 5
+BOX : HEAD -4 0 -3 8 2 1 56 5
+BOX : HEAD -4 0 -2 8 1 1 56 5
+BOX : HEAD -1 1 -4.5 2 2 0 56 2

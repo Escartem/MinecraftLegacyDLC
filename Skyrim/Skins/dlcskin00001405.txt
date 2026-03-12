@@ -1,0 +1,6 @@
+FILETYPE : Skin
+DISPLAYNAME : Argonian Mage
+THEMENAME : Skyrim
+BOX : HEAD -3 -4 -7 6 3 3 24 0
+BOX : HEAD -1 -5 -6 2 1 2 36 16
+BOX : BODY -1 10 2 2 2 6 56 0

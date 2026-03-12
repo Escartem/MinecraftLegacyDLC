@@ -1,0 +1,6 @@
+FILETYPE : Skin
+DISPLAYNAME : Captain Thomas Lasky
+THEMENAME : Halo
+BOX : LEG0 -3 0 -2 1 4 4 24 0
+BOX : LEG0 -2 3 -2.1 4 1 1 30 0
+BOX : LEG0 -2 3 1.1 4 1 1 30 0

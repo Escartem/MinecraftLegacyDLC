@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Zoey
+THEMENAME : Left 4 Dead

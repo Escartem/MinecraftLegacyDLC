@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Freestyle
+THEMENAME : Trials Evolution

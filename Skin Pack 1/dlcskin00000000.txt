@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Creeper Man
+THEMENAME : Minecraft

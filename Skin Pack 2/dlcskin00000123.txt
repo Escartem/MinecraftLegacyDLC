@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Joanna Dark - Dress
+THEMENAME : Perfect Dark

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Carpenter
+FREE : 1

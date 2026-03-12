@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Bill
+THEMENAME : Left 4 Dead
+CREDIT : Valve properties and characters from Valve published titles used with kind permission.

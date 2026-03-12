@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : The Sixth Doctor
+BOX : LEG0 -2 -0.02 -2 4 4 4 24 0
+BOX : LEG1 -2.01 -0.02 -2 4 4 4 56 0

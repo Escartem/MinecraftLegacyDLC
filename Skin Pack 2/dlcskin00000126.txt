@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Juno
+THEMENAME : Jet Force Gemini

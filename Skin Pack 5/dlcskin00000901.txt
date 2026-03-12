@@ -1,0 +1,8 @@
+FILETYPE : Skin
+FREE : 1
+DISPLAYNAME : Ginger Cat Man
+BOX : HEAD -3 -9 1 1 1 3 36 16
+BOX : HEAD 2 -9 1 1 1 3 52 16
+BOX : HEAD -3 -4 -5 6 3 1 24 0
+BOX : BODY -1 10 2 2 2 4 0 0
+BOX : BODY -1 4 4 2 6 2 56 0

@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Christmas Pudding
+FREE : 1
+BOX : HEAD -1 -9 -1 1 1 1 56 16
+BOX : HEAD 0 -9 0 1 1 1 56 16

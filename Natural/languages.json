@@ -1,0 +1,42 @@
+{
+    "en-EN": {
+        "IDS_TP_DESCRIPTION": "Give your worlds a more natural look. A texture pack based on soft colors and lines.",
+        "IDS_DISPLAY_NAME": "Natural Texture Pack"
+    },
+    "de-DE": {
+        "IDS_TP_DESCRIPTION": "Gib deinen Welten ein natürlicheres Aussehen. Ein Texturpaket mit sanften Farben und Linien.",
+        "IDS_DISPLAY_NAME": "Texturpaket Natur"
+    },
+    "fr-FR": {
+        "IDS_TP_DESCRIPTION": "Donnez une allure plus naturelle à vos mondes. Un pack de textures aux couleurs et aux lignes douces.",
+        "IDS_DISPLAY_NAME": "Pack de textures Nature"
+    },
+    "it-IT": {
+        "IDS_TP_DESCRIPTION": "Dai un tocco di natura al tuo mondo. Ecco un pacchetto texture basato su colori tenui e linee.",
+        "IDS_DISPLAY_NAME": "P. texture natura"
+    },
+    "es-ES": {
+        "IDS_TP_DESCRIPTION": "Da a tus mundos un aspecto más natural. Un pack de textura basado en líneas y colores suaves.",
+        "IDS_DISPLAY_NAME": "Textura natural"
+    },
+    "pt-PT": {
+        "IDS_TP_DESCRIPTION": "Dá um ar mais natural aos teus mundos. Um pacote de textura baseado em linhas e cores suaves.",
+        "IDS_DISPLAY_NAME": "Pack Textura Natural"
+    },
+    "ja-JP": {
+        "IDS_TP_DESCRIPTION": "世界を自然に見せる、ソフトな色調と線が特徴のテクスチャ パック。",
+        "IDS_DISPLAY_NAME": "ナチュラル テクスチャ パック"
+    },
+    "ko-KR": {
+        "IDS_TP_DESCRIPTION": "세상을 더 자연스럽게 바꾸십시오. 부드러운 색과 선이 바탕이 된 텍스처 팩입니다.",
+        "IDS_DISPLAY_NAME": "자연 텍스처 팩"
+    },
+    "pt-BR": {
+        "IDS_TP_DESCRIPTION": "Dê a seus mundos uma aparência mais natural. Um pacote de texturas baseado em cores e linhas suaves.",
+        "IDS_DISPLAY_NAME": "Pac. Text. naturais"
+    },
+    "zh-CHT": {
+        "IDS_TP_DESCRIPTION": "以柔和的色彩及線條為基礎的材質套件，讓您的世界外觀看起來更自然。",
+        "IDS_DISPLAY_NAME": "自然材質套件"
+    }
+}

@@ -1,0 +1,4 @@
+FILETYPE : Skin
+FREE : 1
+DISPLAYNAME : Female Zombie
+THEMENAME : The Walking Dead

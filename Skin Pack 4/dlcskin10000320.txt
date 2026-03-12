@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Fidget
+THEMENAME : Dust: An Elysian Tail
+FREE : 1

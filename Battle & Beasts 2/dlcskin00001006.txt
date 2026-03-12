@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Giant Panda
+BOX : HEAD 2 -10 0 3 3 1 24 0
+BOX : HEAD -5 -10 0 3 3 1 24 0
+BOX : BODY -1 10 2 2 2 2 56 0

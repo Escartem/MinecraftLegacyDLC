@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Dark Elf Assassin
+THEMENAME : Skyrim

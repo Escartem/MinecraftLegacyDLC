@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Capybara
+FREE : 1

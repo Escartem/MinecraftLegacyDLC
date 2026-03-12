@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Hyena
+FREE : 1

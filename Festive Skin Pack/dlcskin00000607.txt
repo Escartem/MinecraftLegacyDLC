@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Zombie Pudding
+BOX : HEAD -1 -9 -1 1 1 1 56 16
+BOX : HEAD 0 -9 0 1 1 1 56 16
+ANIM : 0x02

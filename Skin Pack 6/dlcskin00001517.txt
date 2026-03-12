@@ -1,0 +1,8 @@
+FILETYPE : Skin
+DISPLAYNAME : Shark Hoodie Guy
+THEMENAME : State of Decay
+BOX : BODY -3 2 2 6 6 2 24 0
+BOX : BODY -4 9 2 3 3 2 56 0
+BOX : BODY 0 9 1.9 4 3 1 56 28
+BOX : LEG0 -1.5 4 -2.9 3 3 1 12 16
+BOX : LEG1 -1.5 4 -2.9 3 3 1 12 16

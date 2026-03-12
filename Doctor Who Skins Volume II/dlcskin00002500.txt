@@ -1,0 +1,9 @@
+FILETYPE : Skin
+DISPLAYNAME : The Tenth Doctor
+DISPLAYNAMEID : IDS_DLCSKIN00002500_DISPLAYNAME
+CREDIT : BBC logo © BBC 1996. Doctor Who logo © BBC 2009. Dalek image © BBC/ Terry Nation 1963. Cyberman image © BBC/Kit Pedler/Gerry Davis 1966. K-9 image © BBC/Bob Baker/Dave Martin 1977. Licensed by BBC Worldwide Limited.
+CREDITID : IDS_DLCSKIN00002500_CREDIT
+BOX : HEAD 0 -9 -3 2 2 2 24 0
+BOX : HEAD -2 -9 -3 2 2 2 24 0
+BOX : HEAD -1 -10 -4 2 2 2 24 0
+GAME_FLAGS : 0x1c

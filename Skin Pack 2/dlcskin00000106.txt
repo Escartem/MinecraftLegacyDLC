@@ -1,0 +1,5 @@
+FILETYPE : Skin
+DISPLAYNAME : Otus
+THEMENAME : Owlboy
+CREDIT : Otus from Owlboy is used with permission of D-Pad Studio
+FREE : 1

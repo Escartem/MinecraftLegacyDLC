@@ -1,0 +1,9 @@
+FILETYPE : Skin
+DISPLAYNAME : Marcus Campbell
+THEMENAME : State of Decay
+BOX : HEAD -4 -8.9 -4.9 4 1 4 56 0
+BOX : HEAD -4 -8.9 -1 4 1 4 56 0
+BOX : HEAD 0 -8.9 -4.9 4 1 4 56 0
+BOX : HEAD 0 -8.9 -1 4 1 4 56 0
+BOX : HEAD -3 -9.9 -4 6 1 6 56 0
+BOX : BODY -3 2 2 6 6 2 24 0

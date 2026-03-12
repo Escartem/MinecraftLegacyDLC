@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Arbiter
+THEMENAME : Halo

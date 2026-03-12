@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Chef
+THEMENAME : The Dishwasher: Dead Samurai

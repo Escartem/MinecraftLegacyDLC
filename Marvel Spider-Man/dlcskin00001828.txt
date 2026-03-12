@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Spider-Man - Future Foundation
+THEMENAME : Marvel Spider-Man

@@ -1,0 +1,3 @@
+FILETYPE : Skin
+DISPLAYNAME : Leliana
+THEMENAME : Dragon Age

@@ -1,0 +1,4 @@
+FILETYPE : Skin
+DISPLAYNAME : Ittle
+THEMENAME : Ittle Dew
+CREDIT : Ittle from Ittle Dew is used with permission of Ludosity.

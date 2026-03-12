@@ -1,0 +1,6 @@
+FILETYPE : Skin
+FREE : 1
+DISPLAYNAME : Flower Girl
+BOX : HEAD 4 -6 -2 1 2 4 20 0
+BOX : HEAD 4 -4 -1 1 1 2 34 17
+BOX : HEAD 4 -7 -1 1 1 2 34 17
